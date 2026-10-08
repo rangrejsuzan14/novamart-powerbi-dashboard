@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer,Product,Category,Region,Quantity,Discount,Sales,Cost,Profit
+ORD1296,2025-01-01,Aditya Patel,Monitor,Electronics,West,4,0.0,72000,56000,16000
+ORD1911,2025-01-01,Mira Joshi,Keyboard,Accessories,East,1,0.05,1710,1100,610
+ORD1982,2025-01-01,Kiara Mehta,Office Chair,Furniture,West,1,0.0,9500,7000,2500
+ORD1763,2025-01-01,Riya Patel,Headphones,Accessories,West,1,0.1,3150,2200,950
+ORD1391,2025-01-03,Yash Joshi,Monitor,Electronics,West,5,0.1,81000,70000,11000
+ORD1342,2025-01-03,Sara Desai,Laptop,Electronics,West,4,0.15,221000,208000,13000
+ORD1714,2025-01-03,Vivaan Joshi,Office Chair,Furniture,East,3,0.0,28500,21000,7500
+ORD1402,2025-01-04,Dev Mehta,Headphones,Accessories,South,1,0.05,3325,2200,1125
+ORD1105,2025-01-05,Aditya Patel,Desk,Furniture,North,2,0.05,22800,17000,5800
+ORD1517,2025-01-05,Aarav Patel,Monitor,Electronics,South,3,0.05,51300,42000,9300
+ORD1302,2025-01-05,Yash Joshi,Office Chair,Furniture,West,5,0.05,45125,35000,10125
+ORD1669,2025-01-06,Rohan Mehta,Laptop,Electronics,South,5,0.15,276250,260000,16250
+ORD1959,2025-01-06,Kiara Mehta,Webcam,Accessories,West,2,0.0,9000,5800,3200
+ORD1499,2025-01-07,Anaya Desai,Laptop,Electronics,West,2,0.0,130000,104000,26000
+ORD1627,2025-01-07,Sara Desai,Tablet,Electronics,North,1,0.1,19800,17000,2800
+ORD1252,2025-01-07,Dev Mehta,Tablet,Electronics,West,4,0.1,79200,68000,11200
+ORD1421,2025-01-07,Isha Shah,Headphones,Accessories,East,2,0.05,6650,4400,2250
+ORD1130,2025-01-07,Rohan Mehta,Webcam,Accessories,East,3,0.0,13500,8700,4800
+ORD1795,2025-01-08,Sara Desai,Laptop,Electronics,South,3,0.05,185250,156000,29250
+ORD1301,2025-01-08,Diya Shah,Smartphone,Electronics,West,2,0.1,50400,44000,6400
+ORD1100,2025-01-08,Mira Joshi,Webcam,Accessories,West,4,0.0,18000,11600,6400
+ORD1909,2025-01-09,Riya Patel,Desk,Furniture,West,5,0.15,51000,42500,8500
+ORD1325,2025-01-09,Yash Joshi,Monitor,Electronics,North,4,0.0,72000,56000,16000
+ORD1383,2025-01-10,Yash Joshi,Monitor,Electronics,West,4,0.0,72000,56000,16000
+ORD1550,2025-01-11,Aarav Patel,Monitor,Electronics,South,1,0.0,18000,14000,4000
+ORD1875,2025-01-11,Isha Shah,Office Chair,Furniture,North,3,0.05,27075,21000,6075
+ORD1740,2025-01-11,Riya Patel,Keyboard,Accessories,North,2,0.1,3240,2200,1040
+ORD1733,2025-01-11,Diya Shah,Webcam,Accessories,West,5,0.0,22500,14500,8000
+ORD1443,2025-01-12,Kabir Shah,Keyboard,Accessories,North,3,0.1,4860,3300,1560
+ORD1314,2025-01-12,Vivaan Joshi,Monitor,Electronics,North,5,0.0,90000,70000,20000
+ORD1912,2025-01-12,Arjun Desai,Desk,Furniture,West,1,0.0,12000,8500,3500
+ORD1850,2025-01-12,Kiara Mehta,Smartphone,Electronics,West,2,0.05,53200,44000,9200
+ORD1125,2025-01-12,Mira Joshi,Keyboard,Accessories,East,1,0.05,1710,1100,610
+ORD1629,2025-01-12,Sara Desai,Desk,Furniture,North,4,0.0,48000,34000,14000
+ORD1524,2025-01-13,Yash Joshi,Keyboard,Accessories,North,3,0.05,5130,3300,1830
+ORD1625,2025-01-13,Sara Desai,Monitor,Electronics,North,3,0.05,51300,42000,9300
+ORD1719,2025-01-14,Kabir Shah,Webcam,Accessories,East,4,0.15,15300,11600,3700
+ORD1397,2025-01-14,Arjun Desai,Keyboard,Accessories,East,4,0.1,6480,4400,2080
+ORD1363,2025-01-14,Aditya Patel,Tablet,Electronics,South,3,0.05,62700,51000,11700
+ORD1540,2025-01-14,Diya Shah,Headphones,Accessories,South,4,0.05,13300,8800,4500
+ORD1258,2025-01-15,Diya Shah,Laptop,Electronics,West,2,0.1,117000,104000,13000
+ORD1262,2025-01-15,Arjun Desai,Webcam,Accessories,West,3,0.0,13500,8700,4800
+ORD1471,2025-01-15,Arjun Desai,Keyboard,Accessories,West,4,0.05,6840,4400,2440
+ORD1021,2025-01-15,Mira Joshi,Office Chair,Furniture,West,3,0.05,27075,21000,6075
+ORD1131,2025-01-15,Arjun Desai,Smartphone,Electronics,South,2,0.05,53200,44000,9200
+ORD1891,2025-01-16,Rohan Mehta,Printer,Office Equipment,West,2,0.0,28000,21600,6400
+ORD1653,2025-01-16,Diya Shah,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1979,2025-01-16,Rohan Mehta,Printer,Office Equipment,West,5,0.0,70000,54000,16000
+ORD1518,2025-01-17,Rohan Mehta,Printer,Office Equipment,North,2,0.15,23800,21600,2200
+ORD1985,2025-01-18,Isha Shah,Webcam,Accessories,West,1,0.05,4275,2900,1375
+ORD1387,2025-01-18,Vivaan Joshi,Laptop,Electronics,South,4,0.15,221000,208000,13000
+ORD1802,2025-01-19,Yash Joshi,Office Chair,Furniture,East,4,0.0,38000,28000,10000
+ORD1936,2025-01-19,Diya Shah,Monitor,Electronics,South,3,0.0,54000,42000,12000
+ORD1677,2025-01-19,Rohan Mehta,Printer,Office Equipment,South,1,0.05,13300,10800,2500
+ORD1232,2025-01-20,Mira Joshi,Office Chair,Furniture,North,1,0.05,9025,7000,2025
+ORD1800,2025-01-20,Isha Shah,Smartphone,Electronics,West,2,0.15,47600,44000,3600
+ORD1316,2025-01-21,Aditya Patel,Smartphone,Electronics,North,4,0.15,95200,88000,7200
+ORD1511,2025-01-21,Riya Patel,Tablet,Electronics,East,2,0.0,44000,34000,10000
+ORD1370,2025-01-21,Mira Joshi,Headphones,Accessories,East,5,0.05,16625,11000,5625
+ORD1472,2025-01-21,Rohan Mehta,Headphones,Accessories,North,5,0.0,17500,11000,6500
+ORD1285,2025-01-21,Yash Joshi,Tablet,Electronics,West,5,0.05,104500,85000,19500
+ORD1444,2025-01-21,Sara Desai,Laptop,Electronics,South,5,0.15,276250,260000,16250
+ORD1706,2025-01-22,Isha Shah,Desk,Furniture,North,1,0.05,11400,8500,2900
+ORD1541,2025-01-22,Sara Desai,Headphones,Accessories,North,5,0.1,15750,11000,4750
+ORD1154,2025-01-23,Yash Joshi,Tablet,Electronics,North,5,0.0,110000,85000,25000
+ORD1109,2025-01-23,Vivaan Joshi,Monitor,Electronics,South,5,0.15,76500,70000,6500
+ORD1562,2025-01-24,Dev Mehta,Keyboard,Accessories,North,1,0.15,1530,1100,430
+ORD1276,2025-01-25,Dev Mehta,Smartphone,Electronics,North,4,0.0,112000,88000,24000
+ORD1355,2025-01-25,Yash Joshi,Desk,Furniture,East,5,0.0,60000,42500,17500
+ORD1784,2025-01-25,Vivaan Joshi,Webcam,Accessories,North,4,0.1,16200,11600,4600
+ORD1529,2025-01-25,Vivaan Joshi,Office Chair,Furniture,South,3,0.1,25650,21000,4650
+ORD1354,2025-01-25,Dev Mehta,Keyboard,Accessories,West,5,0.0,9000,5500,3500
+ORD1644,2025-01-25,Dev Mehta,Desk,Furniture,North,4,0.1,43200,34000,9200
+ORD1133,2025-01-25,Anaya Desai,Printer,Office Equipment,West,1,0.0,14000,10800,3200
+ORD1253,2025-01-26,Diya Shah,Keyboard,Accessories,West,3,0.0,5400,3300,2100
+ORD1055,2025-01-26,Rohan Mehta,Keyboard,Accessories,West,5,0.0,9000,5500,3500
+ORD1319,2025-01-27,Dev Mehta,Headphones,Accessories,South,5,0.0,17500,11000,6500
+ORD1198,2025-01-27,Arjun Desai,Office Chair,Furniture,West,5,0.0,47500,35000,12500
+ORD1557,2025-01-28,Isha Shah,Desk,Furniture,South,4,0.1,43200,34000,9200
+ORD1101,2025-01-28,Riya Patel,Webcam,Accessories,West,2,0.0,9000,5800,3200
+ORD1025,2025-01-28,Riya Patel,Printer,Office Equipment,West,5,0.1,63000,54000,9000
+ORD1491,2025-01-28,Rohan Mehta,Keyboard,Accessories,South,1,0.05,1710,1100,610
+ORD1771,2025-01-28,Diya Shah,Laptop,Electronics,North,3,0.0,195000,156000,39000
+ORD1023,2025-01-29,Anaya Desai,Office Chair,Furniture,East,5,0.05,45125,35000,10125
+ORD1882,2025-01-29,Rohan Mehta,Printer,Office Equipment,West,2,0.1,25200,21600,3600
+ORD1819,2025-01-30,Arjun Desai,Monitor,Electronics,West,4,0.05,68400,56000,12400
+ORD1983,2025-02-01,Aarav Patel,Smartphone,Electronics,South,3,0.05,79800,66000,13800
+ORD1386,2025-02-01,Sara Desai,Laptop,Electronics,East,5,0.0,325000,260000,65000
+ORD1539,2025-02-01,Sara Desai,Keyboard,Accessories,North,1,0.1,1620,1100,520
+ORD1432,2025-02-01,Aditya Patel,Tablet,Electronics,East,3,0.1,59400,51000,8400
+ORD1046,2025-02-02,Riya Patel,Headphones,Accessories,North,3,0.05,9975,6600,3375
+ORD1973,2025-02-03,Sara Desai,Headphones,Accessories,West,1,0.0,3500,2200,1300
+ORD1075,2025-02-04,Aditya Patel,Smartphone,Electronics,West,5,0.0,140000,110000,30000
+ORD1010,2025-02-04,Sara Desai,Office Chair,Furniture,North,4,0.05,36100,28000,8100
+ORD1937,2025-02-04,Sara Desai,Headphones,Accessories,South,5,0.0,17500,11000,6500
+ORD1079,2025-02-05,Diya Shah,Printer,Office Equipment,West,3,0.15,35700,32400,3300
+ORD1417,2025-02-05,Vivaan Joshi,Printer,Office Equipment,West,4,0.05,53200,43200,10000
+ORD1738,2025-02-05,Vivaan Joshi,Laptop,Electronics,West,4,0.05,247000,208000,39000
+ORD1050,2025-02-06,Kiara Mehta,Keyboard,Accessories,West,3,0.1,4860,3300,1560
+ORD1158,2025-02-07,Arjun Desai,Office Chair,Furniture,West,3,0.1,25650,21000,4650
+ORD1144,2025-02-07,Vivaan Joshi,Laptop,Electronics,North,2,0.1,117000,104000,13000
+ORD1942,2025-02-08,Yash Joshi,Keyboard,Accessories,West,1,0.0,1800,1100,700
+ORD1254,2025-02-08,Yash Joshi,Headphones,Accessories,South,1,0.0,3500,2200,1300
+ORD1745,2025-02-09,Anaya Desai,Office Chair,Furniture,West,5,0.15,40375,35000,5375
+ORD1239,2025-02-09,Dev Mehta,Monitor,Electronics,North,5,0.1,81000,70000,11000
+ORD1240,2025-02-09,Diya Shah,Tablet,Electronics,North,2,0.05,41800,34000,7800
+ORD1139,2025-02-09,Vivaan Joshi,Printer,Office Equipment,East,3,0.05,39900,32400,7500
+ORD1602,2025-02-10,Rohan Mehta,Smartphone,Electronics,North,4,0.0,112000,88000,24000
+ORD1287,2025-02-10,Sara Desai,Smartphone,Electronics,West,5,0.1,126000,110000,16000
+ORD1334,2025-02-11,Aditya Patel,Tablet,Electronics,South,4,0.1,79200,68000,11200
+ORD1510,2025-02-11,Diya Shah,Keyboard,Accessories,West,5,0.1,8100,5500,2600
+ORD1848,2025-02-11,Yash Joshi,Laptop,Electronics,West,5,0.05,308750,260000,48750
+ORD1993,2025-02-11,Diya Shah,Keyboard,Accessories,East,3,0.15,4590,3300,1290
+ORD1135,2025-02-11,Arjun Desai,Desk,Furniture,West,1,0.05,11400,8500,2900
+ORD1315,2025-02-12,Aditya Patel,Monitor,Electronics,South,4,0.05,68400,56000,12400
+ORD1622,2025-02-12,Anaya Desai,Headphones,Accessories,West,2,0.0,7000,4400,2600
+ORD1862,2025-02-12,Aarav Patel,Headphones,Accessories,West,3,0.0,10500,6600,3900
+ORD1861,2025-02-13,Diya Shah,Laptop,Electronics,West,1,0.05,61750,52000,9750
+ORD1294,2025-02-13,Kiara Mehta,Monitor,Electronics,North,1,0.1,16200,14000,2200
+ORD1941,2025-02-14,Isha Shah,Smartphone,Electronics,North,2,0.05,53200,44000,9200
+ORD1568,2025-02-14,Isha Shah,Desk,Furniture,West,1,0.05,11400,8500,2900
+ORD1504,2025-02-14,Anaya Desai,Desk,Furniture,West,3,0.05,34200,25500,8700
+ORD1103,2025-02-15,Rohan Mehta,Headphones,Accessories,South,5,0.05,16625,11000,5625
+ORD1651,2025-02-16,Yash Joshi,Laptop,Electronics,West,5,0.1,292500,260000,32500
+ORD1612,2025-02-16,Isha Shah,Tablet,Electronics,North,1,0.05,20900,17000,3900
+ORD1409,2025-02-16,Sara Desai,Headphones,Accessories,South,3,0.05,9975,6600,3375
+ORD1632,2025-02-16,Aditya Patel,Monitor,Electronics,East,3,0.0,54000,42000,12000
+ORD1687,2025-02-17,Diya Shah,Printer,Office Equipment,West,2,0.15,23800,21600,2200
+ORD1641,2025-02-17,Isha Shah,Webcam,Accessories,West,1,0.1,4050,2900,1150
+ORD1968,2025-02-17,Rohan Mehta,Laptop,Electronics,South,3,0.1,175500,156000,19500
+ORD1349,2025-02-18,Mira Joshi,Headphones,Accessories,North,2,0.05,6650,4400,2250
+ORD1005,2025-02-18,Kabir Shah,Keyboard,Accessories,North,5,0.05,8550,5500,3050
+ORD1380,2025-02-18,Anaya Desai,Desk,Furniture,North,1,0.15,10200,8500,1700
+ORD1494,2025-02-18,Yash Joshi,Webcam,Accessories,West,5,0.0,22500,14500,8000
+ORD1327,2025-02-19,Kiara Mehta,Webcam,Accessories,South,3,0.1,12150,8700,3450
+ORD1631,2025-02-19,Arjun Desai,Monitor,Electronics,South,3,0.05,51300,42000,9300
+ORD1734,2025-02-19,Isha Shah,Webcam,Accessories,East,2,0.05,8550,5800,2750
+ORD1718,2025-02-19,Anaya Desai,Monitor,Electronics,East,3,0.05,51300,42000,9300
+ORD1168,2025-02-20,Dev Mehta,Laptop,Electronics,West,4,0.05,247000,208000,39000
+ORD1085,2025-02-22,Aditya Patel,Printer,Office Equipment,South,4,0.05,53200,43200,10000
+ORD1009,2025-02-22,Diya Shah,Smartphone,Electronics,South,2,0.0,56000,44000,12000
+ORD1538,2025-02-22,Rohan Mehta,Monitor,Electronics,South,5,0.05,85500,70000,15500
+ORD1962,2025-02-23,Kiara Mehta,Tablet,Electronics,West,2,0.0,44000,34000,10000
+ORD1031,2025-02-23,Aditya Patel,Laptop,Electronics,West,2,0.05,123500,104000,19500
+ORD1011,2025-02-23,Mira Joshi,Smartphone,Electronics,North,4,0.0,112000,88000,24000
+ORD1403,2025-02-24,Anaya Desai,Desk,Furniture,North,5,0.05,57000,42500,14500
+ORD1590,2025-02-24,Kiara Mehta,Webcam,Accessories,South,4,0.0,18000,11600,6400
+ORD1170,2025-02-24,Rohan Mehta,Headphones,Accessories,North,1,0.0,3500,2200,1300
+ORD1210,2025-02-26,Aditya Patel,Laptop,Electronics,North,5,0.1,292500,260000,32500
+ORD1658,2025-02-27,Kabir Shah,Smartphone,Electronics,South,3,0.05,79800,66000,13800
+ORD1338,2025-02-27,Rohan Mehta,Smartphone,Electronics,West,3,0.05,79800,66000,13800
+ORD1799,2025-02-27,Aarav Patel,Tablet,Electronics,North,4,0.0,88000,68000,20000
+ORD1773,2025-02-27,Aarav Patel,Headphones,Accessories,South,2,0.05,6650,4400,2250
+ORD1721,2025-02-28,Yash Joshi,Monitor,Electronics,East,4,0.05,68400,56000,12400
+ORD1724,2025-02-28,Kabir Shah,Smartphone,Electronics,North,4,0.05,106400,88000,18400
+ORD1789,2025-02-28,Diya Shah,Keyboard,Accessories,South,5,0.0,9000,5500,3500
+ORD1150,2025-03-01,Dev Mehta,Tablet,Electronics,West,1,0.1,19800,17000,2800
+ORD1737,2025-03-01,Mira Joshi,Desk,Furniture,West,5,0.0,60000,42500,17500
+ORD1810,2025-03-01,Diya Shah,Smartphone,Electronics,South,5,0.1,126000,110000,16000
+ORD1476,2025-03-02,Riya Patel,Keyboard,Accessories,North,1,0.0,1800,1100,700
+ORD1427,2025-03-02,Dev Mehta,Office Chair,Furniture,East,1,0.05,9025,7000,2025
+ORD1715,2025-03-02,Dev Mehta,Webcam,Accessories,South,3,0.05,12825,8700,4125
+ORD1997,2025-03-02,Isha Shah,Monitor,Electronics,West,5,0.0,90000,70000,20000
+ORD1123,2025-03-02,Mira Joshi,Tablet,Electronics,West,3,0.05,62700,51000,11700
+ORD1127,2025-03-02,Aarav Patel,Printer,Office Equipment,West,3,0.15,35700,32400,3300
+ORD1081,2025-03-03,Anaya Desai,Tablet,Electronics,South,1,0.05,20900,17000,3900
+ORD1233,2025-03-03,Aarav Patel,Webcam,Accessories,West,3,0.1,12150,8700,3450
+ORD1364,2025-03-03,Kabir Shah,Keyboard,Accessories,North,5,0.0,9000,5500,3500
+ORD1682,2025-03-03,Aarav Patel,Laptop,Electronics,East,5,0.1,292500,260000,32500
+ORD1152,2025-03-03,Anaya Desai,Monitor,Electronics,West,3,0.05,51300,42000,9300
+ORD1141,2025-03-03,Arjun Desai,Keyboard,Accessories,South,1,0.05,1710,1100,610
+ORD1016,2025-03-04,Kabir Shah,Desk,Furniture,West,1,0.0,12000,8500,3500
+ORD1967,2025-03-04,Anaya Desai,Webcam,Accessories,North,5,0.05,21375,14500,6875
+ORD1058,2025-03-04,Sara Desai,Office Chair,Furniture,West,3,0.05,27075,21000,6075
+ORD1467,2025-03-05,Sara Desai,Laptop,Electronics,East,4,0.05,247000,208000,39000
+ORD1015,2025-03-06,Arjun Desai,Printer,Office Equipment,East,5,0.1,63000,54000,9000
+ORD1558,2025-03-06,Anaya Desai,Monitor,Electronics,West,4,0.1,64800,56000,8800
+ORD1310,2025-03-06,Riya Patel,Laptop,Electronics,North,1,0.0,65000,52000,13000
+ORD1642,2025-03-06,Rohan Mehta,Headphones,Accessories,West,3,0.05,9975,6600,3375
+ORD1156,2025-03-08,Aditya Patel,Office Chair,Furniture,South,3,0.05,27075,21000,6075
+ORD1838,2025-03-09,Rohan Mehta,Printer,Office Equipment,West,2,0.05,26600,21600,5000
+ORD1916,2025-03-09,Sara Desai,Printer,Office Equipment,East,4,0.05,53200,43200,10000
+ORD1606,2025-03-10,Yash Joshi,Monitor,Electronics,West,4,0.05,68400,56000,12400
+ORD1413,2025-03-10,Dev Mehta,Webcam,Accessories,North,3,0.05,12825,8700,4125
+ORD1581,2025-03-11,Arjun Desai,Smartphone,Electronics,West,3,0.05,79800,66000,13800
+ORD1953,2025-03-11,Rohan Mehta,Office Chair,Furniture,West,4,0.0,38000,28000,10000
+ORD1419,2025-03-11,Riya Patel,Keyboard,Accessories,West,2,0.1,3240,2200,1040
+ORD1988,2025-03-11,Isha Shah,Smartphone,Electronics,South,2,0.05,53200,44000,9200
+ORD1808,2025-03-12,Kiara Mehta,Printer,Office Equipment,North,5,0.1,63000,54000,9000
+ORD1393,2025-03-13,Aarav Patel,Monitor,Electronics,South,2,0.05,34200,28000,6200
+ORD1750,2025-03-13,Arjun Desai,Keyboard,Accessories,South,4,0.15,6120,4400,1720
+ORD1112,2025-03-13,Aditya Patel,Desk,Furniture,South,2,0.05,22800,17000,5800
+ORD1326,2025-03-13,Kiara Mehta,Webcam,Accessories,West,1,0.1,4050,2900,1150
+ORD1484,2025-03-13,Kiara Mehta,Laptop,Electronics,South,4,0.1,234000,208000,26000
+ORD1126,2025-03-14,Mira Joshi,Laptop,Electronics,South,2,0.05,123500,104000,19500
+ORD1496,2025-03-14,Vivaan Joshi,Headphones,Accessories,East,3,0.0,10500,6600,3900
+ORD1949,2025-03-14,Anaya Desai,Monitor,Electronics,North,2,0.15,30600,28000,2600
+ORD1206,2025-03-14,Arjun Desai,Smartphone,Electronics,West,1,0.1,25200,22000,3200
+ORD1619,2025-03-14,Dev Mehta,Laptop,Electronics,West,2,0.1,117000,104000,13000
+ORD1335,2025-03-14,Kiara Mehta,Headphones,Accessories,West,5,0.1,15750,11000,4750
+ORD1042,2025-03-16,Aarav Patel,Keyboard,Accessories,West,1,0.05,1710,1100,610
+ORD1519,2025-03-16,Aarav Patel,Headphones,Accessories,North,2,0.05,6650,4400,2250
+ORD1140,2025-03-16,Anaya Desai,Keyboard,Accessories,West,2,0.05,3420,2200,1220
+ORD1115,2025-03-16,Rohan Mehta,Monitor,Electronics,East,5,0.05,85500,70000,15500
+ORD1817,2025-03-17,Aditya Patel,Webcam,Accessories,North,3,0.15,11475,8700,2775
+ORD1449,2025-03-17,Riya Patel,Desk,Furniture,North,2,0.1,21600,17000,4600
+ORD1066,2025-03-17,Mira Joshi,Monitor,Electronics,West,5,0.05,85500,70000,15500
+ORD1907,2025-03-18,Dev Mehta,Tablet,Electronics,North,4,0.05,83600,68000,15600
+ORD1749,2025-03-18,Arjun Desai,Laptop,Electronics,North,1,0.0,65000,52000,13000
+ORD1245,2025-03-18,Dev Mehta,Smartphone,Electronics,West,4,0.05,106400,88000,18400
+ORD1331,2025-03-19,Dev Mehta,Office Chair,Furniture,North,3,0.0,28500,21000,7500
+ORD1186,2025-03-19,Kiara Mehta,Smartphone,Electronics,South,3,0.0,84000,66000,18000
+ORD1129,2025-03-19,Kiara Mehta,Desk,Furniture,South,2,0.1,21600,17000,4600
+ORD1986,2025-03-20,Diya Shah,Monitor,Electronics,East,3,0.05,51300,42000,9300
+ORD1291,2025-03-21,Mira Joshi,Webcam,Accessories,North,3,0.05,12825,8700,4125
+ORD1521,2025-03-23,Riya Patel,Tablet,Electronics,South,5,0.15,93500,85000,8500
+ORD1189,2025-03-23,Diya Shah,Tablet,Electronics,East,4,0.05,83600,68000,15600
+ORD1369,2025-03-23,Kiara Mehta,Smartphone,Electronics,South,4,0.0,112000,88000,24000
+ORD1689,2025-03-23,Diya Shah,Headphones,Accessories,North,1,0.15,2975,2200,775
+ORD1628,2025-03-24,Rohan Mehta,Tablet,Electronics,West,2,0.1,39600,34000,5600
+ORD1255,2025-03-25,Isha Shah,Headphones,Accessories,West,2,0.1,6300,4400,1900
+ORD1576,2025-03-25,Anaya Desai,Webcam,Accessories,West,1,0.15,3825,2900,925
+ORD1176,2025-03-25,Arjun Desai,Monitor,Electronics,West,1,0.0,18000,14000,4000
+ORD1274,2025-03-25,Anaya Desai,Headphones,Accessories,North,3,0.05,9975,6600,3375
+ORD1488,2025-03-25,Aarav Patel,Monitor,Electronics,West,3,0.05,51300,42000,9300
+ORD1927,2025-03-26,Arjun Desai,Keyboard,Accessories,North,5,0.05,8550,5500,3050
+ORD1110,2025-03-26,Sara Desai,Webcam,Accessories,West,2,0.05,8550,5800,2750
+ORD1428,2025-03-27,Aarav Patel,Webcam,Accessories,North,3,0.0,13500,8700,4800
+ORD1132,2025-03-27,Mira Joshi,Webcam,Accessories,North,1,0.1,4050,2900,1150
+ORD1396,2025-03-27,Mira Joshi,Smartphone,Electronics,South,1,0.05,26600,22000,4600
+ORD1424,2025-03-28,Mira Joshi,Monitor,Electronics,West,2,0.0,36000,28000,8000
+ORD1670,2025-03-28,Aarav Patel,Office Chair,Furniture,West,1,0.1,8550,7000,1550
+ORD1286,2025-03-28,Mira Joshi,Webcam,Accessories,West,4,0.15,15300,11600,3700
+ORD1267,2025-03-29,Arjun Desai,Desk,Furniture,West,3,0.05,34200,25500,8700
+ORD1617,2025-03-29,Diya Shah,Printer,Office Equipment,South,3,0.05,39900,32400,7500
+ORD1390,2025-03-29,Riya Patel,Headphones,Accessories,South,3,0.15,8925,6600,2325
+ORD1661,2025-03-29,Anaya Desai,Headphones,Accessories,West,5,0.05,16625,11000,5625
+ORD1943,2025-03-29,Anaya Desai,Printer,Office Equipment,West,4,0.05,53200,43200,10000
+ORD1841,2025-03-29,Aarav Patel,Laptop,Electronics,West,5,0.05,308750,260000,48750
+ORD1307,2025-03-30,Dev Mehta,Keyboard,Accessories,South,1,0.1,1620,1100,520
+ORD1583,2025-03-30,Diya Shah,Printer,Office Equipment,North,4,0.0,56000,43200,12800
+ORD1234,2025-03-30,Arjun Desai,Tablet,Electronics,East,5,0.0,110000,85000,25000
+ORD1238,2025-03-31,Diya Shah,Keyboard,Accessories,West,3,0.1,4860,3300,1560
+ORD1076,2025-03-31,Sara Desai,Desk,Furniture,South,5,0.1,54000,42500,11500
+ORD1570,2025-03-31,Kiara Mehta,Office Chair,Furniture,East,4,0.0,38000,28000,10000
+ORD1458,2025-04-01,Diya Shah,Laptop,Electronics,North,3,0.0,195000,156000,39000
+ORD1241,2025-04-02,Aarav Patel,Laptop,Electronics,West,3,0.1,175500,156000,19500
+ORD1256,2025-04-02,Dev Mehta,Tablet,Electronics,East,1,0.15,18700,17000,1700
+ORD1915,2025-04-02,Rohan Mehta,Smartphone,Electronics,West,3,0.0,84000,66000,18000
+ORD1933,2025-04-02,Aarav Patel,Headphones,Accessories,South,5,0.15,14875,11000,3875
+ORD1593,2025-04-03,Aditya Patel,Tablet,Electronics,West,1,0.0,22000,17000,5000
+ORD1477,2025-04-03,Dev Mehta,Desk,Furniture,North,3,0.0,36000,25500,10500
+ORD1731,2025-04-05,Vivaan Joshi,Office Chair,Furniture,West,1,0.05,9025,7000,2025
+ORD1896,2025-04-05,Sara Desai,Desk,Furniture,East,3,0.05,34200,25500,8700
+ORD1221,2025-04-06,Rohan Mehta,Office Chair,Furniture,West,5,0.05,45125,35000,10125
+ORD1022,2025-04-06,Anaya Desai,Tablet,Electronics,East,1,0.0,22000,17000,5000
+ORD1185,2025-04-07,Riya Patel,Printer,Office Equipment,West,5,0.0,70000,54000,16000
+ORD1630,2025-04-07,Vivaan Joshi,Monitor,Electronics,South,3,0.05,51300,42000,9300
+ORD1359,2025-04-09,Vivaan Joshi,Desk,Furniture,West,1,0.05,11400,8500,2900
+ORD1956,2025-04-10,Aditya Patel,Office Chair,Furniture,West,1,0.05,9025,7000,2025
+ORD1803,2025-04-10,Rohan Mehta,Tablet,Electronics,North,1,0.05,20900,17000,3900
+ORD1147,2025-04-11,Arjun Desai,Smartphone,Electronics,South,4,0.0,112000,88000,24000
+ORD1828,2025-04-11,Sara Desai,Keyboard,Accessories,West,5,0.05,8550,5500,3050
+ORD1515,2025-04-11,Anaya Desai,Desk,Furniture,East,4,0.1,43200,34000,9200
+ORD1030,2025-04-11,Aarav Patel,Office Chair,Furniture,East,2,0.1,17100,14000,3100
+ORD1209,2025-04-11,Riya Patel,Keyboard,Accessories,South,2,0.0,3600,2200,1400
+ORD1308,2025-04-12,Sara Desai,Printer,Office Equipment,East,3,0.1,37800,32400,5400
+ORD1608,2025-04-13,Isha Shah,Printer,Office Equipment,West,2,0.0,28000,21600,6400
+ORD1216,2025-04-13,Aarav Patel,Smartphone,Electronics,South,4,0.1,100800,88000,12800
+ORD1929,2025-04-13,Aditya Patel,Smartphone,Electronics,West,1,0.05,26600,22000,4600
+ORD1207,2025-04-14,Mira Joshi,Laptop,Electronics,North,1,0.1,58500,52000,6500
+ORD1166,2025-04-14,Riya Patel,Smartphone,Electronics,North,1,0.0,28000,22000,6000
+ORD1672,2025-04-14,Vivaan Joshi,Headphones,Accessories,South,5,0.0,17500,11000,6500
+ORD1531,2025-04-14,Aditya Patel,Headphones,Accessories,North,3,0.05,9975,6600,3375
+ORD1744,2025-04-16,Yash Joshi,Printer,Office Equipment,West,2,0.05,26600,21600,5000
+ORD1271,2025-04-16,Aditya Patel,Webcam,Accessories,South,2,0.1,8100,5800,2300
+ORD1814,2025-04-16,Kabir Shah,Desk,Furniture,South,3,0.05,34200,25500,8700
+ORD1830,2025-04-16,Vivaan Joshi,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1884,2025-04-16,Kabir Shah,Desk,Furniture,South,1,0.05,11400,8500,2900
+ORD1293,2025-04-17,Vivaan Joshi,Printer,Office Equipment,West,4,0.05,53200,43200,10000
+ORD1001,2025-04-17,Kiara Mehta,Office Chair,Furniture,North,4,0.15,32300,28000,4300
+ORD1411,2025-04-17,Aarav Patel,Webcam,Accessories,North,2,0.0,9000,5800,3200
+ORD1230,2025-04-17,Diya Shah,Tablet,Electronics,North,5,0.0,110000,85000,25000
+ORD1208,2025-04-18,Riya Patel,Tablet,Electronics,East,3,0.0,66000,51000,15000
+ORD1329,2025-04-18,Diya Shah,Smartphone,Electronics,North,5,0.0,140000,110000,30000
+ORD1392,2025-04-18,Yash Joshi,Office Chair,Furniture,East,5,0.0,47500,35000,12500
+ORD1999,2025-04-18,Yash Joshi,Office Chair,Furniture,East,4,0.05,36100,28000,8100
+ORD1405,2025-04-19,Riya Patel,Laptop,Electronics,South,3,0.0,195000,156000,39000
+ORD1664,2025-04-19,Yash Joshi,Monitor,Electronics,South,2,0.1,32400,28000,4400
+ORD1600,2025-04-19,Riya Patel,Monitor,Electronics,North,3,0.0,54000,42000,12000
+ORD1703,2025-04-20,Dev Mehta,Laptop,Electronics,South,5,0.1,292500,260000,32500
+ORD1312,2025-04-20,Sara Desai,Keyboard,Accessories,North,2,0.05,3420,2200,1220
+ORD1863,2025-04-20,Isha Shah,Tablet,Electronics,West,1,0.05,20900,17000,3900
+ORD1854,2025-04-20,Sara Desai,Headphones,Accessories,East,5,0.0,17500,11000,6500
+ORD1868,2025-04-21,Aarav Patel,Tablet,Electronics,North,1,0.0,22000,17000,5000
+ORD1039,2025-04-22,Arjun Desai,Tablet,Electronics,North,4,0.0,88000,68000,20000
+ORD1043,2025-04-22,Sara Desai,Keyboard,Accessories,East,4,0.05,6840,4400,2440
+ORD1114,2025-04-22,Yash Joshi,Monitor,Electronics,West,3,0.05,51300,42000,9300
+ORD1503,2025-04-23,Dev Mehta,Keyboard,Accessories,East,1,0.0,1800,1100,700
+ORD1246,2025-04-23,Arjun Desai,Smartphone,Electronics,South,5,0.05,133000,110000,23000
+ORD1077,2025-04-24,Dev Mehta,Printer,Office Equipment,East,4,0.05,53200,43200,10000
+ORD1659,2025-04-24,Riya Patel,Keyboard,Accessories,West,2,0.05,3420,2200,1220
+ORD1713,2025-04-24,Aarav Patel,Monitor,Electronics,South,3,0.0,54000,42000,12000
+ORD1595,2025-04-26,Dev Mehta,Webcam,Accessories,North,1,0.1,4050,2900,1150
+ORD1761,2025-04-26,Yash Joshi,Monitor,Electronics,East,1,0.05,17100,14000,3100
+ORD1362,2025-04-26,Yash Joshi,Office Chair,Furniture,North,2,0.0,19000,14000,5000
+ORD1821,2025-04-26,Diya Shah,Printer,Office Equipment,West,1,0.05,13300,10800,2500
+ORD1880,2025-04-26,Isha Shah,Printer,Office Equipment,North,5,0.1,63000,54000,9000
+ORD1051,2025-04-26,Yash Joshi,Monitor,Electronics,West,3,0.15,45900,42000,3900
+ORD1368,2025-04-27,Mira Joshi,Monitor,Electronics,West,4,0.0,72000,56000,16000
+ORD1264,2025-04-27,Diya Shah,Printer,Office Equipment,South,4,0.0,56000,43200,12800
+ORD1559,2025-04-28,Isha Shah,Tablet,Electronics,North,5,0.0,110000,85000,25000
+ORD1685,2025-04-28,Arjun Desai,Keyboard,Accessories,North,1,0.05,1710,1100,610
+ORD1732,2025-04-29,Riya Patel,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1381,2025-04-29,Sara Desai,Printer,Office Equipment,East,1,0.15,11900,10800,1100
+ORD1536,2025-04-30,Sara Desai,Smartphone,Electronics,West,3,0.1,75600,66000,9600
+ORD1462,2025-05-01,Riya Patel,Office Chair,Furniture,South,1,0.0,9500,7000,2500
+ORD1341,2025-05-01,Aditya Patel,Printer,Office Equipment,South,2,0.0,28000,21600,6400
+ORD1811,2025-05-02,Dev Mehta,Office Chair,Furniture,North,5,0.0,47500,35000,12500
+ORD1674,2025-05-02,Mira Joshi,Laptop,Electronics,South,3,0.1,175500,156000,19500
+ORD1272,2025-05-03,Isha Shah,Desk,Furniture,North,3,0.0,36000,25500,10500
+ORD1533,2025-05-03,Isha Shah,Smartphone,Electronics,West,5,0.15,119000,110000,9000
+ORD1690,2025-05-03,Mira Joshi,Keyboard,Accessories,West,4,0.15,6120,4400,1720
+ORD1062,2025-05-04,Mira Joshi,Desk,Furniture,West,4,0.0,48000,34000,14000
+ORD1506,2025-05-05,Vivaan Joshi,Monitor,Electronics,East,2,0.15,30600,28000,2600
+ORD2000,2025-05-05,Aarav Patel,Headphones,Accessories,North,3,0.1,9450,6600,2850
+ORD1120,2025-05-06,Kabir Shah,Keyboard,Accessories,North,5,0.0,9000,5500,3500
+ORD1938,2025-05-06,Kabir Shah,Printer,Office Equipment,North,5,0.05,66500,54000,12500
+ORD1526,2025-05-06,Vivaan Joshi,Keyboard,Accessories,West,2,0.0,3600,2200,1400
+ORD1501,2025-05-06,Kabir Shah,Smartphone,Electronics,West,4,0.0,112000,88000,24000
+ORD1508,2025-05-06,Anaya Desai,Laptop,Electronics,West,5,0.0,325000,260000,65000
+ORD1275,2025-05-07,Arjun Desai,Keyboard,Accessories,West,2,0.05,3420,2200,1220
+ORD1755,2025-05-07,Mira Joshi,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1654,2025-05-07,Rohan Mehta,Office Chair,Furniture,North,2,0.1,17100,14000,3100
+ORD1924,2025-05-07,Rohan Mehta,Monitor,Electronics,North,2,0.1,32400,28000,4400
+ORD1728,2025-05-08,Anaya Desai,Desk,Furniture,East,2,0.0,24000,17000,7000
+ORD1680,2025-05-08,Kiara Mehta,Monitor,Electronics,South,5,0.0,90000,70000,20000
+ORD1037,2025-05-08,Aditya Patel,Headphones,Accessories,East,1,0.05,3325,2200,1125
+ORD1193,2025-05-08,Aarav Patel,Webcam,Accessories,North,3,0.1,12150,8700,3450
+ORD1052,2025-05-08,Diya Shah,Office Chair,Furniture,North,1,0.0,9500,7000,2500
+ORD1064,2025-05-09,Mira Joshi,Office Chair,Furniture,East,1,0.05,9025,7000,2025
+ORD1371,2025-05-09,Diya Shah,Printer,Office Equipment,North,1,0.05,13300,10800,2500
+ORD1840,2025-05-10,Diya Shah,Smartphone,Electronics,West,3,0.05,79800,66000,13800
+ORD1032,2025-05-10,Vivaan Joshi,Laptop,Electronics,North,1,0.0,65000,52000,13000
+ORD1952,2025-05-10,Arjun Desai,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1751,2025-05-11,Dev Mehta,Keyboard,Accessories,North,4,0.0,7200,4400,2800
+ORD1725,2025-05-11,Riya Patel,Desk,Furniture,North,4,0.15,40800,34000,6800
+ORD1020,2025-05-11,Aarav Patel,Laptop,Electronics,South,3,0.0,195000,156000,39000
+ORD1888,2025-05-12,Kabir Shah,Monitor,Electronics,South,4,0.0,72000,56000,16000
+ORD1601,2025-05-12,Aditya Patel,Office Chair,Furniture,North,2,0.1,17100,14000,3100
+ORD1781,2025-05-12,Aditya Patel,Smartphone,Electronics,West,4,0.1,100800,88000,12800
+ORD1399,2025-05-12,Yash Joshi,Desk,Furniture,North,3,0.15,30600,25500,5100
+ORD1663,2025-05-13,Aarav Patel,Keyboard,Accessories,West,5,0.0,9000,5500,3500
+ORD1350,2025-05-14,Rohan Mehta,Tablet,Electronics,South,2,0.1,39600,34000,5600
+ORD1902,2025-05-14,Mira Joshi,Desk,Furniture,South,2,0.1,21600,17000,4600
+ORD1304,2025-05-16,Yash Joshi,Smartphone,Electronics,North,2,0.05,53200,44000,9200
+ORD1149,2025-05-17,Diya Shah,Smartphone,Electronics,West,5,0.1,126000,110000,16000
+ORD1588,2025-05-17,Vivaan Joshi,Keyboard,Accessories,West,5,0.05,8550,5500,3050
+ORD1931,2025-05-17,Vivaan Joshi,Headphones,Accessories,North,3,0.0,10500,6600,3900
+ORD1776,2025-05-17,Yash Joshi,Desk,Furniture,West,2,0.15,20400,17000,3400
+ORD1561,2025-05-18,Rohan Mehta,Keyboard,Accessories,North,1,0.0,1800,1100,700
+ORD1769,2025-05-19,Kiara Mehta,Printer,Office Equipment,West,1,0.0,14000,10800,3200
+ORD1452,2025-05-19,Sara Desai,Office Chair,Furniture,East,1,0.1,8550,7000,1550
+ORD1766,2025-05-19,Aditya Patel,Desk,Furniture,West,2,0.05,22800,17000,5800
+ORD1660,2025-05-19,Mira Joshi,Smartphone,Electronics,West,2,0.05,53200,44000,9200
+ORD1764,2025-05-20,Aarav Patel,Smartphone,Electronics,South,1,0.0,28000,22000,6000
+ORD1324,2025-05-21,Aditya Patel,Desk,Furniture,South,5,0.05,57000,42500,14500
+ORD1423,2025-05-22,Arjun Desai,Webcam,Accessories,North,4,0.1,16200,11600,4600
+ORD1345,2025-05-22,Anaya Desai,Keyboard,Accessories,West,4,0.1,6480,4400,2080
+ORD1057,2025-05-23,Riya Patel,Laptop,Electronics,North,4,0.1,234000,208000,26000
+ORD1422,2025-05-23,Aditya Patel,Smartphone,Electronics,North,3,0.15,71400,66000,5400
+ORD1571,2025-05-23,Riya Patel,Monitor,Electronics,South,4,0.05,68400,56000,12400
+ORD1348,2025-05-23,Isha Shah,Headphones,Accessories,North,2,0.05,6650,4400,2250
+ORD1430,2025-05-24,Rohan Mehta,Printer,Office Equipment,South,2,0.0,28000,21600,6400
+ORD1824,2025-05-24,Isha Shah,Tablet,Electronics,South,5,0.1,99000,85000,14000
+ORD1179,2025-05-24,Kiara Mehta,Laptop,Electronics,North,5,0.05,308750,260000,48750
+ORD1903,2025-05-24,Yash Joshi,Printer,Office Equipment,North,5,0.05,66500,54000,12500
+ORD1084,2025-05-24,Vivaan Joshi,Headphones,Accessories,West,3,0.05,9975,6600,3375
+ORD1260,2025-05-25,Dev Mehta,Desk,Furniture,South,4,0.0,48000,34000,14000
+ORD1102,2025-05-25,Arjun Desai,Headphones,Accessories,West,3,0.05,9975,6600,3375
+ORD1407,2025-05-26,Yash Joshi,Headphones,Accessories,West,1,0.05,3325,2200,1125
+ORD1320,2025-05-26,Diya Shah,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1196,2025-05-26,Vivaan Joshi,Smartphone,Electronics,South,5,0.0,140000,110000,30000
+ORD1920,2025-05-27,Rohan Mehta,Smartphone,Electronics,West,1,0.05,26600,22000,4600
+ORD1257,2025-05-27,Arjun Desai,Monitor,Electronics,North,3,0.15,45900,42000,3900
+ORD1041,2025-05-27,Rohan Mehta,Office Chair,Furniture,East,1,0.0,9500,7000,2500
+ORD1036,2025-05-27,Anaya Desai,Headphones,Accessories,South,3,0.1,9450,6600,2850
+ORD1639,2025-05-28,Riya Patel,Keyboard,Accessories,North,4,0.0,7200,4400,2800
+ORD1835,2025-05-28,Arjun Desai,Keyboard,Accessories,North,4,0.05,6840,4400,2440
+ORD1337,2025-05-29,Kiara Mehta,Monitor,Electronics,East,4,0.0,72000,56000,16000
+ORD1782,2025-05-29,Arjun Desai,Laptop,Electronics,East,1,0.1,58500,52000,6500
+ORD1211,2025-05-29,Aarav Patel,Desk,Furniture,South,3,0.1,32400,25500,6900
+ORD1904,2025-05-30,Vivaan Joshi,Tablet,Electronics,North,1,0.05,20900,17000,3900
+ORD1643,2025-05-30,Rohan Mehta,Webcam,Accessories,East,5,0.15,19125,14500,4625
+ORD1175,2025-05-30,Mira Joshi,Laptop,Electronics,West,5,0.05,308750,260000,48750
+ORD1727,2025-05-30,Anaya Desai,Desk,Furniture,West,4,0.05,45600,34000,11600
+ORD1673,2025-05-30,Isha Shah,Keyboard,Accessories,West,4,0.05,6840,4400,2440
+ORD1970,2025-05-31,Diya Shah,Laptop,Electronics,North,4,0.1,234000,208000,26000
+ORD1038,2025-05-31,Yash Joshi,Laptop,Electronics,East,3,0.0,195000,156000,39000
+ORD1300,2025-05-31,Sara Desai,Smartphone,Electronics,West,4,0.05,106400,88000,18400
+ORD1626,2025-05-31,Diya Shah,Webcam,Accessories,East,1,0.0,4500,2900,1600
+ORD1188,2025-05-31,Vivaan Joshi,Office Chair,Furniture,West,2,0.0,19000,14000,5000
+ORD1676,2025-06-01,Kiara Mehta,Office Chair,Furniture,East,3,0.0,28500,21000,7500
+ORD1376,2025-06-01,Aarav Patel,Laptop,Electronics,East,5,0.1,292500,260000,32500
+ORD1197,2025-06-02,Isha Shah,Printer,Office Equipment,South,2,0.05,26600,21600,5000
+ORD1716,2025-06-02,Anaya Desai,Smartphone,Electronics,North,2,0.0,56000,44000,12000
+ORD1195,2025-06-03,Mira Joshi,Keyboard,Accessories,East,3,0.05,5130,3300,1830
+ORD1944,2025-06-03,Anaya Desai,Headphones,Accessories,West,1,0.0,3500,2200,1300
+ORD1765,2025-06-04,Sara Desai,Printer,Office Equipment,South,1,0.0,14000,10800,3200
+ORD1729,2025-06-04,Vivaan Joshi,Office Chair,Furniture,South,5,0.15,40375,35000,5375
+ORD1569,2025-06-06,Diya Shah,Desk,Furniture,North,3,0.1,32400,25500,6900
+ORD1157,2025-06-06,Aarav Patel,Webcam,Accessories,North,4,0.1,16200,11600,4600
+ORD1545,2025-06-06,Riya Patel,Monitor,Electronics,West,4,0.1,64800,56000,8800
+ORD1893,2025-06-07,Isha Shah,Office Chair,Furniture,North,1,0.1,8550,7000,1550
+ORD1049,2025-06-07,Dev Mehta,Laptop,Electronics,West,1,0.15,55250,52000,3250
+ORD1404,2025-06-08,Riya Patel,Desk,Furniture,South,2,0.05,22800,17000,5800
+ORD1575,2025-06-08,Arjun Desai,Keyboard,Accessories,South,4,0.05,6840,4400,2440
+ORD1693,2025-06-08,Riya Patel,Smartphone,Electronics,West,1,0.05,26600,22000,4600
+ORD1356,2025-06-09,Dev Mehta,Headphones,Accessories,West,2,0.0,7000,4400,2600
+ORD1072,2025-06-09,Kabir Shah,Desk,Furniture,South,2,0.0,24000,17000,7000
+ORD1096,2025-06-09,Dev Mehta,Keyboard,Accessories,West,2,0.0,3600,2200,1400
+ORD1297,2025-06-10,Aarav Patel,Monitor,Electronics,North,5,0.0,90000,70000,20000
+ORD1487,2025-06-10,Yash Joshi,Smartphone,Electronics,South,2,0.05,53200,44000,9200
+ORD1869,2025-06-10,Rohan Mehta,Headphones,Accessories,South,5,0.05,16625,11000,5625
+ORD1408,2025-06-10,Aarav Patel,Printer,Office Equipment,South,4,0.0,56000,43200,12800
+ORD1145,2025-06-10,Isha Shah,Headphones,Accessories,West,5,0.05,16625,11000,5625
+ORD1182,2025-06-11,Riya Patel,Tablet,Electronics,South,2,0.0,44000,34000,10000
+ORD1792,2025-06-11,Aditya Patel,Office Chair,Furniture,West,2,0.05,18050,14000,4050
+ORD1614,2025-06-11,Yash Joshi,Webcam,Accessories,North,2,0.0,9000,5800,3200
+ORD1546,2025-06-11,Riya Patel,Laptop,Electronics,North,3,0.0,195000,156000,39000
+ORD1351,2025-06-12,Diya Shah,Headphones,Accessories,West,1,0.0,3500,2200,1300
+ORD1711,2025-06-12,Yash Joshi,Webcam,Accessories,West,3,0.15,11475,8700,2775
+ORD1594,2025-06-12,Rohan Mehta,Headphones,Accessories,East,4,0.1,12600,8800,3800
+ORD1289,2025-06-12,Vivaan Joshi,Printer,Office Equipment,West,1,0.05,13300,10800,2500
+ORD1857,2025-06-13,Anaya Desai,Headphones,Accessories,East,1,0.0,3500,2200,1300
+ORD1367,2025-06-13,Aarav Patel,Smartphone,Electronics,West,5,0.15,119000,110000,9000
+ORD1438,2025-06-13,Vivaan Joshi,Webcam,Accessories,South,4,0.1,16200,11600,4600
+ORD1353,2025-06-13,Yash Joshi,Printer,Office Equipment,North,5,0.1,63000,54000,9000
+ORD1852,2025-06-13,Kiara Mehta,Smartphone,Electronics,North,1,0.05,26600,22000,4600
+ORD1948,2025-06-13,Kiara Mehta,Tablet,Electronics,North,5,0.0,110000,85000,25000
+ORD1328,2025-06-13,Mira Joshi,Office Chair,Furniture,North,2,0.1,17100,14000,3100
+ORD1560,2025-06-14,Isha Shah,Monitor,Electronics,West,2,0.0,36000,28000,8000
+ORD1796,2025-06-15,Aarav Patel,Laptop,Electronics,West,2,0.0,130000,104000,26000
+ORD1702,2025-06-15,Rohan Mehta,Laptop,Electronics,South,1,0.0,65000,52000,13000
+ORD1092,2025-06-16,Kabir Shah,Tablet,Electronics,West,5,0.05,104500,85000,19500
+ORD1618,2025-06-16,Dev Mehta,Office Chair,Furniture,East,3,0.1,25650,21000,4650
+ORD1624,2025-06-17,Rohan Mehta,Tablet,Electronics,North,1,0.05,20900,17000,3900
+ORD1434,2025-06-17,Mira Joshi,Monitor,Electronics,South,4,0.1,64800,56000,8800
+ORD1886,2025-06-18,Mira Joshi,Office Chair,Furniture,North,1,0.15,8075,7000,1075
+ORD1930,2025-06-19,Aditya Patel,Smartphone,Electronics,South,3,0.1,75600,66000,9600
+ORD1124,2025-06-19,Dev Mehta,Monitor,Electronics,West,5,0.0,90000,70000,20000
+ORD1998,2025-06-20,Aarav Patel,Laptop,Electronics,South,4,0.15,221000,208000,13000
+ORD1146,2025-06-21,Diya Shah,Webcam,Accessories,West,5,0.0,22500,14500,8000
+ORD1497,2025-06-21,Yash Joshi,Smartphone,Electronics,South,3,0.05,79800,66000,13800
+ORD1966,2025-06-21,Aditya Patel,Laptop,Electronics,West,3,0.0,195000,156000,39000
+ORD1899,2025-06-21,Isha Shah,Monitor,Electronics,West,2,0.05,34200,28000,6200
+ORD1374,2025-06-22,Rohan Mehta,Laptop,Electronics,West,4,0.05,247000,208000,39000
+ORD1516,2025-06-22,Yash Joshi,Monitor,Electronics,East,2,0.1,32400,28000,4400
+ORD1053,2025-06-23,Kiara Mehta,Keyboard,Accessories,West,2,0.15,3060,2200,860
+ORD1757,2025-06-23,Kiara Mehta,Smartphone,Electronics,West,3,0.0,84000,66000,18000
+ORD1251,2025-06-24,Dev Mehta,Smartphone,Electronics,North,2,0.15,47600,44000,3600
+ORD1780,2025-06-24,Diya Shah,Printer,Office Equipment,East,5,0.0,70000,54000,16000
+ORD1442,2025-06-25,Kabir Shah,Desk,Furniture,West,5,0.1,54000,42500,11500
+ORD1502,2025-06-25,Anaya Desai,Keyboard,Accessories,North,5,0.05,8550,5500,3050
+ORD1224,2025-06-26,Rohan Mehta,Office Chair,Furniture,North,4,0.1,34200,28000,6200
+ORD1486,2025-06-26,Yash Joshi,Office Chair,Furniture,East,5,0.1,42750,35000,7750
+ORD1082,2025-06-26,Anaya Desai,Keyboard,Accessories,West,5,0.1,8100,5500,2600
+ORD1547,2025-06-26,Isha Shah,Smartphone,Electronics,West,3,0.05,79800,66000,13800
+ORD1282,2025-06-26,Rohan Mehta,Headphones,Accessories,North,4,0.0,14000,8800,5200
+ORD1889,2025-06-27,Arjun Desai,Headphones,Accessories,West,1,0.0,3500,2200,1300
+ORD1073,2025-06-28,Kabir Shah,Smartphone,Electronics,East,3,0.05,79800,66000,13800
+ORD1908,2025-06-28,Vivaan Joshi,Desk,Furniture,West,2,0.0,24000,17000,7000
+ORD1347,2025-06-29,Sara Desai,Printer,Office Equipment,North,1,0.0,14000,10800,3200
+ORD1070,2025-06-29,Yash Joshi,Webcam,Accessories,West,5,0.1,20250,14500,5750
+ORD1923,2025-06-29,Dev Mehta,Laptop,Electronics,West,3,0.05,185250,156000,29250
+ORD1762,2025-06-29,Sara Desai,Webcam,Accessories,North,4,0.05,17100,11600,5500
+ORD1787,2025-06-29,Aarav Patel,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1128,2025-06-29,Yash Joshi,Laptop,Electronics,North,1,0.05,61750,52000,9750
+ORD1059,2025-06-29,Mira Joshi,Webcam,Accessories,South,2,0.0,9000,5800,3200
+ORD1794,2025-07-01,Mira Joshi,Laptop,Electronics,South,1,0.0,65000,52000,13000
+ORD1717,2025-07-02,Riya Patel,Office Chair,Furniture,North,3,0.15,24225,21000,3225
+ORD1080,2025-07-02,Dev Mehta,Desk,Furniture,South,5,0.0,60000,42500,17500
+ORD1122,2025-07-03,Arjun Desai,Desk,Furniture,East,4,0.0,48000,34000,14000
+ORD1161,2025-07-03,Yash Joshi,Headphones,Accessories,South,5,0.0,17500,11000,6500
+ORD1535,2025-07-03,Yash Joshi,Smartphone,Electronics,West,2,0.1,50400,44000,6400
+ORD1527,2025-07-03,Sara Desai,Smartphone,Electronics,East,1,0.0,28000,22000,6000
+ORD1033,2025-07-03,Kabir Shah,Keyboard,Accessories,West,4,0.0,7200,4400,2800
+ORD1992,2025-07-04,Aditya Patel,Laptop,Electronics,West,3,0.05,185250,156000,29250
+ORD1299,2025-07-04,Aditya Patel,Smartphone,Electronics,North,1,0.05,26600,22000,4600
+ORD1980,2025-07-04,Diya Shah,Desk,Furniture,West,1,0.05,11400,8500,2900
+ORD1086,2025-07-05,Aditya Patel,Office Chair,Furniture,East,5,0.15,40375,35000,5375
+ORD1774,2025-07-05,Riya Patel,Office Chair,Furniture,West,4,0.15,32300,28000,4300
+ORD1284,2025-07-05,Isha Shah,Headphones,Accessories,West,2,0.15,5950,4400,1550
+ORD1900,2025-07-05,Aarav Patel,Office Chair,Furniture,East,3,0.05,27075,21000,6075
+ORD1587,2025-07-06,Anaya Desai,Laptop,Electronics,North,3,0.05,185250,156000,29250
+ORD1712,2025-07-06,Vivaan Joshi,Laptop,Electronics,South,3,0.0,195000,156000,39000
+ORD1858,2025-07-06,Vivaan Joshi,Tablet,Electronics,South,5,0.0,110000,85000,25000
+ORD1607,2025-07-07,Isha Shah,Printer,Office Equipment,West,1,0.05,13300,10800,2500
+ORD1530,2025-07-07,Arjun Desai,Monitor,Electronics,South,5,0.1,81000,70000,11000
+ORD1604,2025-07-08,Anaya Desai,Tablet,Electronics,South,3,0.1,59400,51000,8400
+ORD1623,2025-07-08,Aditya Patel,Webcam,Accessories,West,1,0.15,3825,2900,925
+ORD1026,2025-07-09,Aarav Patel,Webcam,Accessories,West,4,0.05,17100,11600,5500
+ORD1200,2025-07-09,Mira Joshi,Laptop,Electronics,North,2,0.05,123500,104000,19500
+ORD1450,2025-07-09,Aarav Patel,Monitor,Electronics,West,4,0.1,64800,56000,8800
+ORD1914,2025-07-09,Dev Mehta,Monitor,Electronics,West,3,0.0,54000,42000,12000
+ORD1806,2025-07-09,Anaya Desai,Headphones,Accessories,North,3,0.0,10500,6600,3900
+ORD1611,2025-07-09,Vivaan Joshi,Office Chair,Furniture,South,2,0.0,19000,14000,5000
+ORD1479,2025-07-09,Kiara Mehta,Keyboard,Accessories,West,1,0.0,1800,1100,700
+ORD1459,2025-07-09,Rohan Mehta,Keyboard,Accessories,North,4,0.05,6840,4400,2440
+ORD1958,2025-07-10,Dev Mehta,Headphones,Accessories,East,3,0.1,9450,6600,2850
+ORD1964,2025-07-10,Kiara Mehta,Printer,Office Equipment,South,5,0.1,63000,54000,9000
+ORD1974,2025-07-11,Dev Mehta,Printer,Office Equipment,North,5,0.05,66500,54000,12500
+ORD1406,2025-07-11,Rohan Mehta,Keyboard,Accessories,North,5,0.1,8100,5500,2600
+ORD1483,2025-07-11,Kabir Shah,Office Chair,Furniture,West,1,0.0,9500,7000,2500
+ORD1768,2025-07-11,Rohan Mehta,Office Chair,Furniture,North,2,0.0,19000,14000,5000
+ORD1954,2025-07-11,Vivaan Joshi,Smartphone,Electronics,West,3,0.05,79800,66000,13800
+ORD1414,2025-07-11,Vivaan Joshi,Headphones,Accessories,South,1,0.05,3325,2200,1125
+ORD1250,2025-07-12,Isha Shah,Laptop,Electronics,North,4,0.0,260000,208000,52000
+ORD1201,2025-07-12,Rohan Mehta,Smartphone,Electronics,West,4,0.15,95200,88000,7200
+ORD1180,2025-07-13,Isha Shah,Laptop,Electronics,North,3,0.05,185250,156000,29250
+ORD1270,2025-07-13,Isha Shah,Headphones,Accessories,North,2,0.05,6650,4400,2250
+ORD1190,2025-07-14,Aditya Patel,Monitor,Electronics,West,4,0.0,72000,56000,16000
+ORD1845,2025-07-14,Riya Patel,Desk,Furniture,West,2,0.05,22800,17000,5800
+ORD1426,2025-07-15,Yash Joshi,Printer,Office Equipment,West,1,0.0,14000,10800,3200
+ORD1665,2025-07-15,Riya Patel,Tablet,Electronics,West,4,0.0,88000,68000,20000
+ORD1507,2025-07-15,Diya Shah,Monitor,Electronics,South,3,0.1,48600,42000,6600
+ORD1446,2025-07-15,Arjun Desai,Monitor,Electronics,South,1,0.0,18000,14000,4000
+ORD1987,2025-07-15,Rohan Mehta,Tablet,Electronics,South,2,0.05,41800,34000,7800
+ORD1437,2025-07-16,Rohan Mehta,Printer,Office Equipment,West,3,0.05,39900,32400,7500
+ORD1034,2025-07-17,Isha Shah,Keyboard,Accessories,North,5,0.05,8550,5500,3050
+ORD1174,2025-07-17,Vivaan Joshi,Tablet,Electronics,East,1,0.05,20900,17000,3900
+ORD1227,2025-07-17,Aditya Patel,Webcam,Accessories,East,5,0.1,20250,14500,5750
+ORD1572,2025-07-18,Mira Joshi,Laptop,Electronics,East,3,0.1,175500,156000,19500
+ORD1375,2025-07-19,Arjun Desai,Laptop,Electronics,South,5,0.0,325000,260000,65000
+ORD1746,2025-07-20,Yash Joshi,Monitor,Electronics,North,2,0.05,34200,28000,6200
+ORD1454,2025-07-20,Anaya Desai,Desk,Furniture,West,4,0.05,45600,34000,11600
+ORD1694,2025-07-20,Mira Joshi,Desk,Furniture,North,1,0.05,11400,8500,2900
+ORD1279,2025-07-21,Rohan Mehta,Desk,Furniture,South,1,0.05,11400,8500,2900
+ORD1171,2025-07-21,Anaya Desai,Monitor,Electronics,South,1,0.1,16200,14000,2200
+ORD1012,2025-07-21,Sara Desai,Smartphone,Electronics,East,2,0.05,53200,44000,9200
+ORD1268,2025-07-21,Kiara Mehta,Printer,Office Equipment,West,4,0.1,50400,43200,7200
+ORD1464,2025-07-22,Vivaan Joshi,Desk,Furniture,West,4,0.0,48000,34000,14000
+ORD1859,2025-07-25,Isha Shah,Desk,Furniture,South,3,0.05,34200,25500,8700
+ORD1856,2025-07-25,Yash Joshi,Headphones,Accessories,South,5,0.0,17500,11000,6500
+ORD1704,2025-07-26,Anaya Desai,Office Chair,Furniture,North,2,0.05,18050,14000,4050
+ORD1994,2025-07-26,Sara Desai,Smartphone,Electronics,East,2,0.0,56000,44000,12000
+ORD1883,2025-07-27,Sara Desai,Tablet,Electronics,West,4,0.15,74800,68000,6800
+ORD1822,2025-07-28,Sara Desai,Monitor,Electronics,East,5,0.15,76500,70000,6500
+ORD1975,2025-07-28,Vivaan Joshi,Desk,Furniture,South,3,0.0,36000,25500,10500
+ORD1656,2025-07-28,Arjun Desai,Desk,Furniture,West,3,0.1,32400,25500,6900
+ORD1339,2025-07-28,Rohan Mehta,Smartphone,Electronics,South,4,0.05,106400,88000,18400
+ORD1720,2025-07-29,Kiara Mehta,Smartphone,Electronics,East,3,0.05,79800,66000,13800
+ORD1219,2025-07-29,Aarav Patel,Laptop,Electronics,East,4,0.1,234000,208000,26000
+ORD1901,2025-07-29,Anaya Desai,Webcam,Accessories,West,3,0.1,12150,8700,3450
+ORD1775,2025-07-29,Kiara Mehta,Desk,Furniture,North,3,0.1,32400,25500,6900
+ORD1939,2025-07-30,Arjun Desai,Smartphone,Electronics,South,5,0.1,126000,110000,16000
+ORD1278,2025-07-30,Isha Shah,Tablet,Electronics,West,4,0.05,83600,68000,15600
+ORD1178,2025-07-30,Sara Desai,Office Chair,Furniture,West,3,0.0,28500,21000,7500
+ORD1551,2025-07-30,Riya Patel,Printer,Office Equipment,East,1,0.0,14000,10800,3200
+ORD1650,2025-07-31,Dev Mehta,Printer,Office Equipment,West,1,0.0,14000,10800,3200
+ORD1870,2025-07-31,Dev Mehta,Monitor,Electronics,West,3,0.0,54000,42000,12000
+ORD1549,2025-08-01,Vivaan Joshi,Printer,Office Equipment,East,2,0.0,28000,21600,6400
+ORD1385,2025-08-01,Riya Patel,Printer,Office Equipment,West,2,0.15,23800,21600,2200
+ORD1772,2025-08-02,Mira Joshi,Monitor,Electronics,East,3,0.05,51300,42000,9300
+ORD1815,2025-08-02,Kiara Mehta,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1373,2025-08-02,Kiara Mehta,Office Chair,Furniture,West,2,0.05,18050,14000,4050
+ORD1615,2025-08-02,Arjun Desai,Laptop,Electronics,West,3,0.05,185250,156000,29250
+ORD1433,2025-08-02,Yash Joshi,Webcam,Accessories,West,4,0.1,16200,11600,4600
+ORD1881,2025-08-03,Dev Mehta,Laptop,Electronics,West,2,0.05,123500,104000,19500
+ORD1298,2025-08-04,Kabir Shah,Webcam,Accessories,West,4,0.15,15300,11600,3700
+ORD1014,2025-08-05,Riya Patel,Smartphone,Electronics,North,5,0.05,133000,110000,23000
+ORD1955,2025-08-05,Riya Patel,Tablet,Electronics,East,1,0.05,20900,17000,3900
+ORD1634,2025-08-06,Sara Desai,Smartphone,Electronics,North,2,0.15,47600,44000,3600
+ORD1165,2025-08-06,Dev Mehta,Office Chair,Furniture,West,2,0.15,16150,14000,2150
+ORD1303,2025-08-06,Kabir Shah,Smartphone,Electronics,South,1,0.1,25200,22000,3200
+ORD1867,2025-08-06,Rohan Mehta,Keyboard,Accessories,East,3,0.05,5130,3300,1830
+ORD1548,2025-08-06,Dev Mehta,Tablet,Electronics,North,5,0.0,110000,85000,25000
+ORD1068,2025-08-06,Mira Joshi,Headphones,Accessories,North,5,0.05,16625,11000,5625
+ORD1636,2025-08-07,Aarav Patel,Monitor,Electronics,North,2,0.1,32400,28000,4400
+ORD1306,2025-08-08,Diya Shah,Monitor,Electronics,East,5,0.05,85500,70000,15500
+ORD1441,2025-08-08,Aarav Patel,Smartphone,Electronics,West,3,0.15,71400,66000,5400
+ORD1922,2025-08-08,Riya Patel,Office Chair,Furniture,South,3,0.0,28500,21000,7500
+ORD1696,2025-08-08,Isha Shah,Office Chair,Furniture,South,4,0.0,38000,28000,10000
+ORD1876,2025-08-08,Aarav Patel,Tablet,Electronics,East,4,0.0,88000,68000,20000
+ORD1379,2025-08-08,Aarav Patel,Desk,Furniture,West,2,0.0,24000,17000,7000
+ORD1067,2025-08-08,Vivaan Joshi,Monitor,Electronics,West,1,0.0,18000,14000,4000
+ORD1418,2025-08-08,Sara Desai,Webcam,Accessories,West,4,0.0,18000,11600,6400
+ORD1791,2025-08-08,Mira Joshi,Desk,Furniture,South,5,0.0,60000,42500,17500
+ORD1767,2025-08-09,Vivaan Joshi,Laptop,Electronics,North,1,0.0,65000,52000,13000
+ORD1277,2025-08-09,Aditya Patel,Tablet,Electronics,North,4,0.1,79200,68000,11200
+ORD1087,2025-08-09,Kabir Shah,Webcam,Accessories,South,5,0.1,20250,14500,5750
+ORD1069,2025-08-10,Vivaan Joshi,Office Chair,Furniture,North,4,0.0,38000,28000,10000
+ORD1445,2025-08-11,Kabir Shah,Headphones,Accessories,West,4,0.1,12600,8800,3800
+ORD1951,2025-08-11,Arjun Desai,Webcam,Accessories,West,3,0.1,12150,8700,3450
+ORD1579,2025-08-11,Sara Desai,Smartphone,Electronics,North,2,0.0,56000,44000,12000
+ORD1742,2025-08-11,Yash Joshi,Office Chair,Furniture,North,1,0.05,9025,7000,2025
+ORD1187,2025-08-11,Aditya Patel,Headphones,Accessories,East,4,0.05,13300,8800,4500
+ORD1963,2025-08-12,Isha Shah,Desk,Furniture,East,3,0.15,30600,25500,5100
+ORD1748,2025-08-12,Sara Desai,Office Chair,Furniture,East,4,0.05,36100,28000,8100
+ORD1394,2025-08-12,Mira Joshi,Tablet,Electronics,South,1,0.0,22000,17000,5000
+ORD1565,2025-08-12,Vivaan Joshi,Printer,Office Equipment,West,2,0.0,28000,21600,6400
+ORD1143,2025-08-13,Anaya Desai,Keyboard,Accessories,West,4,0.05,6840,4400,2440
+ORD1743,2025-08-14,Arjun Desai,Office Chair,Furniture,West,2,0.0,19000,14000,5000
+ORD1577,2025-08-14,Yash Joshi,Desk,Furniture,West,1,0.15,10200,8500,1700
+ORD1228,2025-08-14,Arjun Desai,Desk,Furniture,South,3,0.15,30600,25500,5100
+ORD1237,2025-08-14,Kiara Mehta,Desk,Furniture,West,1,0.05,11400,8500,2900
+ORD1851,2025-08-14,Anaya Desai,Webcam,Accessories,North,1,0.05,4275,2900,1375
+ORD1553,2025-08-15,Riya Patel,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1786,2025-08-15,Isha Shah,Headphones,Accessories,North,3,0.15,8925,6600,2325
+ORD1400,2025-08-15,Mira Joshi,Headphones,Accessories,North,2,0.1,6300,4400,1900
+ORD1283,2025-08-16,Diya Shah,Headphones,Accessories,North,2,0.1,6300,4400,1900
+ORD1377,2025-08-16,Kabir Shah,Monitor,Electronics,East,2,0.05,34200,28000,6200
+ORD1567,2025-08-16,Yash Joshi,Monitor,Electronics,South,4,0.05,68400,56000,12400
+ORD1134,2025-08-16,Yash Joshi,Printer,Office Equipment,South,5,0.05,66500,54000,12500
+ORD1097,2025-08-17,Anaya Desai,Monitor,Electronics,North,5,0.15,76500,70000,6500
+ORD1897,2025-08-17,Riya Patel,Printer,Office Equipment,East,2,0.05,26600,21600,5000
+ORD1554,2025-08-17,Dev Mehta,Office Chair,Furniture,North,1,0.0,9500,7000,2500
+ORD1758,2025-08-17,Aarav Patel,Webcam,Accessories,South,3,0.05,12825,8700,4125
+ORD1813,2025-08-17,Mira Joshi,Desk,Furniture,North,2,0.05,22800,17000,5800
+ORD1563,2025-08-18,Aarav Patel,Headphones,Accessories,West,2,0.05,6650,4400,2250
+ORD1344,2025-08-19,Aarav Patel,Monitor,Electronics,North,4,0.05,68400,56000,12400
+ORD1288,2025-08-19,Isha Shah,Desk,Furniture,South,1,0.05,11400,8500,2900
+ORD1957,2025-08-20,Rohan Mehta,Laptop,Electronics,West,1,0.15,55250,52000,3250
+ORD1203,2025-08-20,Rohan Mehta,Headphones,Accessories,East,1,0.1,3150,2200,950
+ORD1372,2025-08-20,Vivaan Joshi,Laptop,Electronics,South,2,0.15,110500,104000,6500
+ORD1269,2025-08-21,Dev Mehta,Laptop,Electronics,West,2,0.05,123500,104000,19500
+ORD1921,2025-08-21,Aarav Patel,Webcam,Accessories,North,5,0.0,22500,14500,8000
+ORD1098,2025-08-21,Aarav Patel,Headphones,Accessories,South,1,0.05,3325,2200,1125
+ORD1481,2025-08-21,Arjun Desai,Webcam,Accessories,South,3,0.0,13500,8700,4800
+ORD1675,2025-08-22,Riya Patel,Tablet,Electronics,West,4,0.0,88000,68000,20000
+ORD1534,2025-08-22,Riya Patel,Desk,Furniture,South,1,0.05,11400,8500,2900
+ORD1505,2025-08-22,Rohan Mehta,Keyboard,Accessories,West,3,0.05,5130,3300,1830
+ORD1028,2025-08-22,Riya Patel,Printer,Office Equipment,West,5,0.05,66500,54000,12500
+ORD1243,2025-08-23,Dev Mehta,Keyboard,Accessories,East,4,0.0,7200,4400,2800
+ORD1580,2025-08-23,Riya Patel,Keyboard,Accessories,East,5,0.05,8550,5500,3050
+ORD1556,2025-08-25,Diya Shah,Headphones,Accessories,North,5,0.1,15750,11000,4750
+ORD1895,2025-08-25,Isha Shah,Webcam,Accessories,South,2,0.15,7650,5800,1850
+ORD1194,2025-08-25,Arjun Desai,Laptop,Electronics,West,1,0.05,61750,52000,9750
+ORD1699,2025-08-25,Kabir Shah,Desk,Furniture,East,3,0.0,36000,25500,10500
+ORD1646,2025-08-25,Sara Desai,Laptop,Electronics,West,2,0.05,123500,104000,19500
+ORD1439,2025-08-26,Kiara Mehta,Office Chair,Furniture,North,1,0.05,9025,7000,2025
+ORD1741,2025-08-26,Kiara Mehta,Monitor,Electronics,North,2,0.05,34200,28000,6200
+ORD1106,2025-08-27,Aarav Patel,Keyboard,Accessories,West,1,0.05,1710,1100,610
+ORD1679,2025-08-27,Dev Mehta,Laptop,Electronics,South,2,0.0,130000,104000,26000
+ORD1797,2025-08-27,Kiara Mehta,Keyboard,Accessories,South,3,0.0,5400,3300,2100
+ORD1610,2025-08-27,Arjun Desai,Keyboard,Accessories,East,3,0.05,5130,3300,1830
+ORD1874,2025-08-28,Aditya Patel,Printer,Office Equipment,East,4,0.05,53200,43200,10000
+ORD1613,2025-08-29,Kabir Shah,Desk,Furniture,North,5,0.05,57000,42500,14500
+ORD1333,2025-08-29,Kabir Shah,Webcam,Accessories,East,5,0.1,20250,14500,5750
+ORD1798,2025-08-29,Yash Joshi,Keyboard,Accessories,West,5,0.05,8550,5500,3050
+ORD1543,2025-08-29,Mira Joshi,Printer,Office Equipment,South,4,0.05,53200,43200,10000
+ORD1662,2025-08-30,Arjun Desai,Laptop,Electronics,West,3,0.05,185250,156000,29250
+ORD1366,2025-08-30,Dev Mehta,Laptop,Electronics,East,5,0.0,325000,260000,65000
+ORD1723,2025-08-30,Yash Joshi,Desk,Furniture,North,4,0.0,48000,34000,14000
+ORD1093,2025-08-30,Riya Patel,Tablet,Electronics,North,3,0.0,66000,51000,15000
+ORD1398,2025-08-31,Yash Joshi,Printer,Office Equipment,West,4,0.0,56000,43200,12800
+ORD1172,2025-09-01,Arjun Desai,Webcam,Accessories,East,1,0.0,4500,2900,1600
+ORD1480,2025-09-02,Aarav Patel,Laptop,Electronics,West,2,0.05,123500,104000,19500
+ORD1976,2025-09-02,Isha Shah,Desk,Furniture,West,5,0.05,57000,42500,14500
+ORD1585,2025-09-02,Diya Shah,Smartphone,Electronics,East,1,0.15,23800,22000,1800
+ORD1825,2025-09-03,Diya Shah,Webcam,Accessories,West,4,0.05,17100,11600,5500
+ORD1965,2025-09-03,Dev Mehta,Headphones,Accessories,West,3,0.1,9450,6600,2850
+ORD1945,2025-09-04,Vivaan Joshi,Tablet,Electronics,North,1,0.1,19800,17000,2800
+ORD1816,2025-09-04,Kabir Shah,Keyboard,Accessories,North,1,0.05,1710,1100,610
+ORD1752,2025-09-04,Kiara Mehta,Keyboard,Accessories,West,5,0.05,8550,5500,3050
+ORD1592,2025-09-05,Aditya Patel,Webcam,Accessories,East,4,0.0,18000,11600,6400
+ORD1649,2025-09-05,Riya Patel,Printer,Office Equipment,North,3,0.0,42000,32400,9600
+ORD1633,2025-09-05,Anaya Desai,Headphones,Accessories,West,3,0.1,9450,6600,2850
+ORD1343,2025-09-05,Riya Patel,Tablet,Electronics,West,5,0.1,99000,85000,14000
+ORD1747,2025-09-06,Rohan Mehta,Keyboard,Accessories,South,3,0.05,5130,3300,1830
+ORD1520,2025-09-06,Rohan Mehta,Office Chair,Furniture,North,3,0.05,27075,21000,6075
+ORD1801,2025-09-06,Sara Desai,Smartphone,Electronics,East,2,0.0,56000,44000,12000
+ORD1078,2025-09-06,Anaya Desai,Desk,Furniture,West,4,0.05,45600,34000,11600
+ORD1214,2025-09-07,Aditya Patel,Laptop,Electronics,West,2,0.05,123500,104000,19500
+ORD1485,2025-09-07,Vivaan Joshi,Laptop,Electronics,West,5,0.1,292500,260000,32500
+ORD1204,2025-09-07,Anaya Desai,Office Chair,Furniture,North,5,0.05,45125,35000,10125
+ORD1420,2025-09-07,Kabir Shah,Headphones,Accessories,West,3,0.0,10500,6600,3900
+ORD1981,2025-09-08,Sara Desai,Headphones,Accessories,East,2,0.0,7000,4400,2600
+ORD1969,2025-09-10,Dev Mehta,Tablet,Electronics,West,4,0.05,83600,68000,15600
+ORD1088,2025-09-10,Isha Shah,Printer,Office Equipment,West,2,0.1,25200,21600,3600
+ORD1435,2025-09-11,Rohan Mehta,Laptop,Electronics,East,2,0.0,130000,104000,26000
+ORD1826,2025-09-11,Kabir Shah,Desk,Furniture,South,4,0.05,45600,34000,11600
+ORD1040,2025-09-11,Riya Patel,Laptop,Electronics,North,2,0.15,110500,104000,6500
+ORD1159,2025-09-11,Anaya Desai,Monitor,Electronics,North,3,0.1,48600,42000,6600
+ORD1708,2025-09-12,Dev Mehta,Printer,Office Equipment,North,3,0.05,39900,32400,7500
+ORD1184,2025-09-12,Dev Mehta,Office Chair,Furniture,North,3,0.0,28500,21000,7500
+ORD1894,2025-09-12,Aditya Patel,Headphones,Accessories,South,2,0.0,7000,4400,2600
+ORD1589,2025-09-12,Kabir Shah,Monitor,Electronics,West,4,0.15,61200,56000,5200
+ORD1466,2025-09-12,Aditya Patel,Keyboard,Accessories,North,1,0.15,1530,1100,430
+ORD1753,2025-09-13,Kabir Shah,Keyboard,Accessories,West,3,0.15,4590,3300,1290
+ORD1352,2025-09-13,Mira Joshi,Tablet,Electronics,South,2,0.15,37400,34000,3400
+ORD1388,2025-09-13,Isha Shah,Monitor,Electronics,South,4,0.0,72000,56000,16000
+ORD1599,2025-09-13,Kabir Shah,Printer,Office Equipment,North,5,0.05,66500,54000,12500
+ORD1191,2025-09-13,Sara Desai,Headphones,Accessories,West,5,0.0,17500,11000,6500
+ORD1947,2025-09-13,Arjun Desai,Printer,Office Equipment,West,3,0.0,42000,32400,9600
+ORD1596,2025-09-14,Mira Joshi,Smartphone,Electronics,East,4,0.1,100800,88000,12800
+ORD1475,2025-09-14,Kiara Mehta,Smartphone,Electronics,South,3,0.1,75600,66000,9600
+ORD1389,2025-09-15,Dev Mehta,Printer,Office Equipment,South,4,0.0,56000,43200,12800
+ORD1489,2025-09-15,Yash Joshi,Webcam,Accessories,South,3,0.05,12825,8700,4125
+ORD1003,2025-09-15,Kiara Mehta,Headphones,Accessories,East,3,0.0,10500,6600,3900
+ORD1532,2025-09-16,Sara Desai,Headphones,Accessories,South,3,0.0,10500,6600,3900
+ORD1099,2025-09-16,Aditya Patel,Laptop,Electronics,West,5,0.05,308750,260000,48750
+ORD1027,2025-09-16,Aditya Patel,Printer,Office Equipment,West,4,0.05,53200,43200,10000
+ORD1401,2025-09-17,Riya Patel,Monitor,Electronics,South,5,0.0,90000,70000,20000
+ORD1584,2025-09-17,Riya Patel,Office Chair,Furniture,South,2,0.15,16150,14000,2150
+ORD1946,2025-09-17,Mira Joshi,Smartphone,Electronics,South,2,0.1,50400,44000,6400
+ORD1844,2025-09-17,Riya Patel,Webcam,Accessories,West,2,0.05,8550,5800,2750
+ORD1360,2025-09-17,Aditya Patel,Tablet,Electronics,West,4,0.05,83600,68000,15600
+ORD1111,2025-09-17,Sara Desai,Laptop,Electronics,East,3,0.0,195000,156000,39000
+ORD1378,2025-09-18,Vivaan Joshi,Tablet,Electronics,South,3,0.0,66000,51000,15000
+ORD1017,2025-09-18,Mira Joshi,Desk,Furniture,West,3,0.1,32400,25500,6900
+ORD1436,2025-09-19,Aditya Patel,Laptop,Electronics,South,2,0.05,123500,104000,19500
+ORD1231,2025-09-19,Vivaan Joshi,Printer,Office Equipment,West,1,0.15,11900,10800,1100
+ORD1877,2025-09-20,Kabir Shah,Desk,Furniture,East,3,0.0,36000,25500,10500
+ORD1323,2025-09-20,Isha Shah,Webcam,Accessories,North,4,0.05,17100,11600,5500
+ORD1321,2025-09-20,Yash Joshi,Headphones,Accessories,East,2,0.0,7000,4400,2600
+ORD1332,2025-09-20,Vivaan Joshi,Printer,Office Equipment,South,2,0.0,28000,21600,6400
+ORD1273,2025-09-21,Kiara Mehta,Printer,Office Equipment,South,1,0.1,12600,10800,1800
+ORD1292,2025-09-21,Kabir Shah,Printer,Office Equipment,East,1,0.05,13300,10800,2500
+ORD1465,2025-09-21,Diya Shah,Printer,Office Equipment,South,4,0.0,56000,43200,12800
+ORD1047,2025-09-21,Kabir Shah,Keyboard,Accessories,North,5,0.05,8550,5500,3050
+ORD1181,2025-09-21,Dev Mehta,Smartphone,Electronics,West,3,0.0,84000,66000,18000
+ORD1060,2025-09-21,Vivaan Joshi,Keyboard,Accessories,West,3,0.0,5400,3300,2100
+ORD1447,2025-09-22,Anaya Desai,Webcam,Accessories,East,5,0.15,19125,14500,4625
+ORD1490,2025-09-23,Sara Desai,Webcam,Accessories,South,2,0.1,8100,5800,2300
+ORD1847,2025-09-23,Riya Patel,Keyboard,Accessories,East,4,0.1,6480,4400,2080
+ORD1223,2025-09-23,Sara Desai,Desk,Furniture,North,4,0.15,40800,34000,6800
+ORD1358,2025-09-24,Diya Shah,Smartphone,Electronics,West,2,0.0,56000,44000,12000
+ORD1202,2025-09-24,Kiara Mehta,Tablet,Electronics,North,2,0.0,44000,34000,10000
+ORD1113,2025-09-25,Aarav Patel,Smartphone,Electronics,North,3,0.05,79800,66000,13800
+ORD1212,2025-09-25,Yash Joshi,Keyboard,Accessories,South,1,0.15,1530,1100,430
+ORD1336,2025-09-26,Aarav Patel,Keyboard,Accessories,East,1,0.05,1710,1100,610
+ORD1698,2025-09-26,Kabir Shah,Monitor,Electronics,West,2,0.0,36000,28000,8000
+ORD1006,2025-09-28,Sara Desai,Webcam,Accessories,West,4,0.15,15300,11600,3700
+ORD1648,2025-09-28,Anaya Desai,Headphones,Accessories,North,3,0.0,10500,6600,3900
+ORD1621,2025-09-28,Anaya Desai,Office Chair,Furniture,South,1,0.0,9500,7000,2500
+ORD1603,2025-09-28,Rohan Mehta,Printer,Office Equipment,North,3,0.0,42000,32400,9600
+ORD1686,2025-09-28,Rohan Mehta,Tablet,Electronics,West,3,0.1,59400,51000,8400
+ORD1065,2025-09-29,Dev Mehta,Smartphone,Electronics,South,1,0.05,26600,22000,4600
+ORD1453,2025-09-29,Diya Shah,Tablet,Electronics,West,1,0.0,22000,17000,5000
+ORD1977,2025-09-30,Mira Joshi,Smartphone,Electronics,West,2,0.05,53200,44000,9200
+ORD1513,2025-09-30,Rohan Mehta,Smartphone,Electronics,East,3,0.0,84000,66000,18000
+ORD1756,2025-09-30,Kiara Mehta,Headphones,Accessories,North,4,0.1,12600,8800,3800
+ORD1054,2025-09-30,Kiara Mehta,Keyboard,Accessories,South,2,0.0,3600,2200,1400
+ORD1259,2025-10-01,Yash Joshi,Laptop,Electronics,North,1,0.1,58500,52000,6500
+ORD1008,2025-10-01,Anaya Desai,Tablet,Electronics,East,5,0.05,104500,85000,19500
+ORD1871,2025-10-02,Isha Shah,Office Chair,Furniture,West,4,0.05,36100,28000,8100
+ORD1461,2025-10-02,Arjun Desai,Office Chair,Furniture,East,1,0.0,9500,7000,2500
+ORD1514,2025-10-02,Vivaan Joshi,Desk,Furniture,South,1,0.1,10800,8500,2300
+ORD1500,2025-10-02,Dev Mehta,Laptop,Electronics,North,1,0.15,55250,52000,3250
+ORD1318,2025-10-02,Diya Shah,Headphones,Accessories,West,5,0.05,16625,11000,5625
+ORD1137,2025-10-04,Isha Shah,Printer,Office Equipment,West,1,0.0,14000,10800,3200
+ORD1482,2025-10-04,Rohan Mehta,Laptop,Electronics,East,1,0.1,58500,52000,6500
+ORD1495,2025-10-04,Isha Shah,Office Chair,Furniture,East,1,0.0,9500,7000,2500
+ORD1666,2025-10-04,Dev Mehta,Desk,Furniture,West,2,0.05,22800,17000,5800
+ORD1004,2025-10-04,Aarav Patel,Keyboard,Accessories,West,2,0.0,3600,2200,1400
+ORD1793,2025-10-05,Kiara Mehta,Printer,Office Equipment,East,4,0.05,53200,43200,10000
+ORD1598,2025-10-05,Diya Shah,Monitor,Electronics,South,2,0.15,30600,28000,2600
+ORD1913,2025-10-06,Kabir Shah,Webcam,Accessories,South,1,0.0,4500,2900,1600
+ORD1309,2025-10-06,Rohan Mehta,Tablet,Electronics,East,2,0.1,39600,34000,5600
+ORD1701,2025-10-06,Diya Shah,Smartphone,Electronics,East,4,0.05,106400,88000,18400
+ORD1807,2025-10-07,Yash Joshi,Smartphone,Electronics,South,3,0.0,84000,66000,18000
+ORD1512,2025-10-07,Dev Mehta,Headphones,Accessories,North,3,0.0,10500,6600,3900
+ORD1917,2025-10-07,Aditya Patel,Tablet,Electronics,North,2,0.05,41800,34000,7800
+ORD1831,2025-10-08,Isha Shah,Office Chair,Furniture,West,4,0.05,36100,28000,8100
+ORD1528,2025-10-09,Aarav Patel,Tablet,Electronics,West,3,0.0,66000,51000,15000
+ORD1683,2025-10-09,Riya Patel,Tablet,Electronics,East,5,0.05,104500,85000,19500
+ORD1163,2025-10-09,Kabir Shah,Tablet,Electronics,North,3,0.05,62700,51000,11700
+ORD1107,2025-10-10,Aarav Patel,Webcam,Accessories,East,1,0.15,3825,2900,925
+ORD1089,2025-10-10,Mira Joshi,Desk,Furniture,West,2,0.05,22800,17000,5800
+ORD1647,2025-10-10,Isha Shah,Keyboard,Accessories,West,1,0.05,1710,1100,610
+ORD1564,2025-10-10,Isha Shah,Laptop,Electronics,West,4,0.15,221000,208000,13000
+ORD1779,2025-10-10,Aarav Patel,Desk,Furniture,West,5,0.0,60000,42500,17500
+ORD1024,2025-10-11,Diya Shah,Office Chair,Furniture,North,3,0.05,27075,21000,6075
+ORD1083,2025-10-11,Sara Desai,Printer,Office Equipment,South,3,0.0,42000,32400,9600
+ORD1961,2025-10-11,Rohan Mehta,Webcam,Accessories,West,3,0.0,13500,8700,4800
+ORD1853,2025-10-12,Yash Joshi,Smartphone,Electronics,East,1,0.15,23800,22000,1800
+ORD1671,2025-10-12,Yash Joshi,Tablet,Electronics,South,1,0.0,22000,17000,5000
+ORD1118,2025-10-12,Anaya Desai,Webcam,Accessories,North,3,0.05,12825,8700,4125
+ORD1759,2025-10-13,Aditya Patel,Office Chair,Furniture,East,2,0.1,17100,14000,3100
+ORD1151,2025-10-13,Rohan Mehta,Printer,Office Equipment,West,5,0.0,70000,54000,16000
+ORD1463,2025-10-13,Arjun Desai,Headphones,Accessories,West,5,0.05,16625,11000,5625
+ORD1116,2025-10-13,Yash Joshi,Smartphone,Electronics,North,2,0.05,53200,44000,9200
+ORD1809,2025-10-13,Mira Joshi,Office Chair,Furniture,West,2,0.0,19000,14000,5000
+ORD1754,2025-10-14,Sara Desai,Monitor,Electronics,North,4,0.05,68400,56000,12400
+ORD1357,2025-10-14,Rohan Mehta,Smartphone,Electronics,North,4,0.05,106400,88000,18400
+ORD1812,2025-10-15,Mira Joshi,Headphones,Accessories,East,5,0.15,14875,11000,3875
+ORD1213,2025-10-15,Mira Joshi,Printer,Office Equipment,North,5,0.05,66500,54000,12500
+ORD1045,2025-10-16,Sara Desai,Printer,Office Equipment,West,4,0.1,50400,43200,7200
+ORD1305,2025-10-16,Aarav Patel,Desk,Furniture,West,1,0.05,11400,8500,2900
+ORD1266,2025-10-16,Riya Patel,Keyboard,Accessories,South,3,0.05,5130,3300,1830
+ORD1605,2025-10-17,Arjun Desai,Desk,Furniture,North,2,0.1,21600,17000,4600
+ORD1542,2025-10-17,Diya Shah,Office Chair,Furniture,South,2,0.05,18050,14000,4050
+ORD1640,2025-10-17,Isha Shah,Tablet,Electronics,East,2,0.0,44000,34000,10000
+ORD1777,2025-10-17,Rohan Mehta,Desk,Furniture,West,5,0.05,57000,42500,14500
+ORD1995,2025-10-18,Diya Shah,Tablet,Electronics,West,3,0.0,66000,51000,15000
+ORD1637,2025-10-18,Diya Shah,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1864,2025-10-18,Vivaan Joshi,Desk,Furniture,North,5,0.15,51000,42500,8500
+ORD1317,2025-10-19,Kabir Shah,Monitor,Electronics,North,4,0.15,61200,56000,5200
+ORD1971,2025-10-19,Aditya Patel,Smartphone,Electronics,West,3,0.05,79800,66000,13800
+ORD1091,2025-10-19,Isha Shah,Laptop,Electronics,South,1,0.05,61750,52000,9750
+ORD1890,2025-10-19,Diya Shah,Desk,Furniture,North,5,0.0,60000,42500,17500
+ORD1330,2025-10-20,Yash Joshi,Monitor,Electronics,West,1,0.0,18000,14000,4000
+ORD1829,2025-10-20,Dev Mehta,Webcam,Accessories,West,5,0.1,20250,14500,5750
+ORD1225,2025-10-20,Arjun Desai,Desk,Furniture,West,2,0.0,24000,17000,7000
+ORD1735,2025-10-20,Sara Desai,Headphones,Accessories,West,5,0.05,16625,11000,5625
+ORD1281,2025-10-20,Anaya Desai,Webcam,Accessories,South,5,0.1,20250,14500,5750
+ORD1167,2025-10-20,Kiara Mehta,Headphones,Accessories,South,4,0.1,12600,8800,3800
+ORD1730,2025-10-20,Mira Joshi,Printer,Office Equipment,South,3,0.0,42000,32400,9600
+ORD1431,2025-10-21,Riya Patel,Keyboard,Accessories,West,4,0.0,7200,4400,2800
+ORD1578,2025-10-21,Sara Desai,Webcam,Accessories,South,5,0.15,19125,14500,4625
+ORD1783,2025-10-21,Dev Mehta,Headphones,Accessories,North,5,0.1,15750,11000,4750
+ORD1415,2025-10-22,Diya Shah,Webcam,Accessories,East,4,0.0,18000,11600,6400
+ORD1537,2025-10-22,Aarav Patel,Keyboard,Accessories,North,5,0.05,8550,5500,3050
+ORD1638,2025-10-22,Kabir Shah,Webcam,Accessories,West,2,0.05,8550,5800,2750
+ORD1652,2025-10-23,Kabir Shah,Monitor,Electronics,North,3,0.0,54000,42000,12000
+ORD1950,2025-10-23,Aditya Patel,Keyboard,Accessories,West,4,0.0,7200,4400,2800
+ORD1013,2025-10-23,Vivaan Joshi,Desk,Furniture,North,4,0.0,48000,34000,14000
+ORD1934,2025-10-24,Isha Shah,Smartphone,Electronics,East,1,0.0,28000,22000,6000
+ORD1416,2025-10-24,Isha Shah,Desk,Furniture,West,1,0.0,12000,8500,3500
+ORD1990,2025-10-25,Rohan Mehta,Printer,Office Equipment,West,3,0.0,42000,32400,9600
+ORD1710,2025-10-26,Dev Mehta,Keyboard,Accessories,South,3,0.15,4590,3300,1290
+ORD1837,2025-10-27,Diya Shah,Keyboard,Accessories,West,2,0.0,3600,2200,1400
+ORD1142,2025-10-27,Vivaan Joshi,Desk,Furniture,West,2,0.0,24000,17000,7000
+ORD1932,2025-10-28,Dev Mehta,Monitor,Electronics,North,2,0.05,34200,28000,6200
+ORD1290,2025-10-28,Aditya Patel,Laptop,Electronics,North,4,0.0,260000,208000,52000
+ORD1217,2025-10-28,Diya Shah,Desk,Furniture,East,3,0.05,34200,25500,8700
+ORD1707,2025-10-29,Diya Shah,Tablet,Electronics,South,5,0.05,104500,85000,19500
+ORD1169,2025-10-29,Vivaan Joshi,Printer,Office Equipment,East,3,0.05,39900,32400,7500
+ORD1667,2025-10-29,Aditya Patel,Headphones,Accessories,East,1,0.1,3150,2200,950
+ORD1456,2025-10-29,Anaya Desai,Monitor,Electronics,East,3,0.1,48600,42000,6600
+ORD1395,2025-10-29,Aditya Patel,Printer,Office Equipment,North,2,0.1,25200,21600,3600
+ORD1104,2025-10-30,Arjun Desai,Smartphone,Electronics,North,3,0.1,75600,66000,9600
+ORD1455,2025-10-30,Isha Shah,Desk,Furniture,West,3,0.05,34200,25500,8700
+ORD1892,2025-10-31,Sara Desai,Headphones,Accessories,South,5,0.0,17500,11000,6500
+ORD1645,2025-11-01,Arjun Desai,Laptop,Electronics,North,5,0.05,308750,260000,48750
+ORD1311,2025-11-01,Aarav Patel,Monitor,Electronics,North,3,0.05,51300,42000,9300
+ORD1280,2025-11-01,Sara Desai,Keyboard,Accessories,East,1,0.1,1620,1100,520
+ORD1509,2025-11-01,Dev Mehta,Keyboard,Accessories,North,4,0.15,6120,4400,1720
+ORD1681,2025-11-01,Rohan Mehta,Office Chair,Furniture,West,5,0.05,45125,35000,10125
+ORD1148,2025-11-01,Vivaan Joshi,Desk,Furniture,East,3,0.0,36000,25500,10500
+ORD1544,2025-11-02,Kiara Mehta,Smartphone,Electronics,West,1,0.0,28000,22000,6000
+ORD1842,2025-11-02,Riya Patel,Monitor,Electronics,West,4,0.05,68400,56000,12400
+ORD1887,2025-11-04,Aarav Patel,Office Chair,Furniture,West,5,0.0,47500,35000,12500
+ORD1361,2025-11-04,Anaya Desai,Monitor,Electronics,North,4,0.0,72000,56000,16000
+ORD1879,2025-11-05,Kiara Mehta,Tablet,Electronics,East,5,0.05,104500,85000,19500
+ORD1199,2025-11-05,Aditya Patel,Desk,Furniture,North,2,0.05,22800,17000,5800
+ORD1155,2025-11-05,Kiara Mehta,Printer,Office Equipment,West,1,0.1,12600,10800,1800
+ORD1555,2025-11-06,Kiara Mehta,Smartphone,Electronics,South,1,0.05,26600,22000,4600
+ORD1925,2025-11-06,Isha Shah,Keyboard,Accessories,West,5,0.05,8550,5500,3050
+ORD1788,2025-11-07,Vivaan Joshi,Monitor,Electronics,West,2,0.05,34200,28000,6200
+ORD1473,2025-11-07,Aditya Patel,Printer,Office Equipment,West,5,0.05,66500,54000,12500
+ORD1108,2025-11-07,Isha Shah,Smartphone,Electronics,South,1,0.05,26600,22000,4600
+ORD1220,2025-11-07,Rohan Mehta,Webcam,Accessories,East,4,0.0,18000,11600,6400
+ORD1095,2025-11-08,Aarav Patel,Printer,Office Equipment,West,4,0.0,56000,43200,12800
+ORD1684,2025-11-08,Aarav Patel,Keyboard,Accessories,North,4,0.05,6840,4400,2440
+ORD1322,2025-11-08,Aarav Patel,Office Chair,Furniture,North,5,0.0,47500,35000,12500
+ORD1056,2025-11-09,Anaya Desai,Desk,Furniture,South,5,0.0,60000,42500,17500
+ORD1498,2025-11-09,Isha Shah,Office Chair,Furniture,South,3,0.05,27075,21000,6075
+ORD1566,2025-11-09,Sara Desai,Office Chair,Furniture,North,2,0.0,19000,14000,5000
+ORD1805,2025-11-10,Sara Desai,Tablet,Electronics,West,4,0.05,83600,68000,15600
+ORD1365,2025-11-10,Kiara Mehta,Keyboard,Accessories,North,5,0.1,8100,5500,2600
+ORD1668,2025-11-10,Aditya Patel,Headphones,Accessories,West,2,0.05,6650,4400,2250
+ORD1820,2025-11-10,Sara Desai,Desk,Furniture,West,1,0.1,10800,8500,2300
+ORD1597,2025-11-11,Kabir Shah,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1384,2025-11-11,Sara Desai,Smartphone,Electronics,North,1,0.05,26600,22000,4600
+ORD1136,2025-11-11,Dev Mehta,Headphones,Accessories,West,2,0.05,6650,4400,2250
+ORD1846,2025-11-12,Isha Shah,Laptop,Electronics,North,2,0.1,117000,104000,13000
+ORD1860,2025-11-13,Aditya Patel,Laptop,Electronics,West,5,0.1,292500,260000,32500
+ORD1048,2025-11-13,Rohan Mehta,Monitor,Electronics,North,1,0.05,17100,14000,3100
+ORD1833,2025-11-14,Isha Shah,Office Chair,Furniture,West,2,0.0,19000,14000,5000
+ORD1984,2025-11-14,Diya Shah,Printer,Office Equipment,West,4,0.15,47600,43200,4400
+ORD1222,2025-11-14,Vivaan Joshi,Headphones,Accessories,North,5,0.1,15750,11000,4750
+ORD1029,2025-11-14,Aarav Patel,Keyboard,Accessories,West,1,0.05,1710,1100,610
+ORD1248,2025-11-15,Riya Patel,Tablet,Electronics,South,2,0.05,41800,34000,7800
+ORD1919,2025-11-15,Riya Patel,Webcam,Accessories,West,5,0.05,21375,14500,6875
+ORD1885,2025-11-16,Aditya Patel,Keyboard,Accessories,North,4,0.05,6840,4400,2440
+ORD1265,2025-11-16,Diya Shah,Laptop,Electronics,North,5,0.0,325000,260000,65000
+ORD1582,2025-11-16,Kabir Shah,Tablet,Electronics,East,4,0.15,74800,68000,6800
+ORD1007,2025-11-16,Arjun Desai,Tablet,Electronics,West,4,0.05,83600,68000,15600
+ORD1691,2025-11-16,Kiara Mehta,Tablet,Electronics,West,3,0.05,62700,51000,11700
+ORD1722,2025-11-17,Aditya Patel,Keyboard,Accessories,North,2,0.05,3420,2200,1220
+ORD1655,2025-11-17,Aditya Patel,Desk,Furniture,South,3,0.05,34200,25500,8700
+ORD1996,2025-11-17,Rohan Mehta,Headphones,Accessories,North,5,0.05,16625,11000,5625
+ORD1493,2025-11-17,Aditya Patel,Printer,Office Equipment,North,4,0.0,56000,43200,12800
+ORD1574,2025-11-17,Aarav Patel,Desk,Furniture,East,4,0.05,45600,34000,11600
+ORD1843,2025-11-17,Yash Joshi,Laptop,Electronics,West,3,0.15,165750,156000,9750
+ORD1726,2025-11-18,Anaya Desai,Smartphone,Electronics,West,5,0.1,126000,110000,16000
+ORD1935,2025-11-18,Kiara Mehta,Keyboard,Accessories,West,5,0.0,9000,5500,3500
+ORD1235,2025-11-19,Kabir Shah,Monitor,Electronics,West,2,0.05,34200,28000,6200
+ORD1469,2025-11-20,Rohan Mehta,Monitor,Electronics,South,5,0.05,85500,70000,15500
+ORD1635,2025-11-21,Riya Patel,Laptop,Electronics,North,2,0.15,110500,104000,6500
+ORD1827,2025-11-21,Mira Joshi,Laptop,Electronics,West,4,0.1,234000,208000,26000
+ORD1071,2025-11-21,Dev Mehta,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1410,2025-11-21,Arjun Desai,Office Chair,Furniture,North,1,0.15,8075,7000,1075
+ORD1865,2025-11-21,Riya Patel,Keyboard,Accessories,West,1,0.05,1710,1100,610
+ORD1035,2025-11-22,Dev Mehta,Laptop,Electronics,East,1,0.0,65000,52000,13000
+ORD1910,2025-11-23,Isha Shah,Monitor,Electronics,South,1,0.15,15300,14000,1300
+ORD1804,2025-11-23,Kabir Shah,Desk,Furniture,East,5,0.05,57000,42500,14500
+ORD1153,2025-11-24,Aditya Patel,Webcam,Accessories,South,1,0.05,4275,2900,1375
+ORD1018,2025-11-24,Riya Patel,Printer,Office Equipment,West,4,0.1,50400,43200,7200
+ORD1926,2025-11-24,Riya Patel,Tablet,Electronics,South,4,0.15,74800,68000,6800
+ORD1991,2025-11-24,Aarav Patel,Keyboard,Accessories,East,4,0.1,6480,4400,2080
+ORD1313,2025-11-24,Diya Shah,Printer,Office Equipment,North,3,0.05,39900,32400,7500
+ORD1215,2025-11-24,Diya Shah,Monitor,Electronics,North,1,0.0,18000,14000,4000
+ORD1834,2025-11-25,Aditya Patel,Keyboard,Accessories,West,4,0.1,6480,4400,2080
+ORD1818,2025-11-25,Aditya Patel,Smartphone,Electronics,West,1,0.0,28000,22000,6000
+ORD1522,2025-11-25,Kiara Mehta,Headphones,Accessories,East,5,0.05,16625,11000,5625
+ORD1074,2025-11-26,Kabir Shah,Tablet,Electronics,West,1,0.15,18700,17000,1700
+ORD1905,2025-11-26,Kabir Shah,Webcam,Accessories,South,5,0.05,21375,14500,6875
+ORD1692,2025-11-27,Mira Joshi,Headphones,Accessories,West,3,0.05,9975,6600,3375
+ORD1823,2025-11-27,Aarav Patel,Printer,Office Equipment,West,2,0.15,23800,21600,2200
+ORD1002,2025-11-27,Kabir Shah,Office Chair,Furniture,East,2,0.0,19000,14000,5000
+ORD1709,2025-11-27,Aarav Patel,Keyboard,Accessories,North,2,0.1,3240,2200,1040
+ORD1162,2025-11-28,Dev Mehta,Monitor,Electronics,South,5,0.0,90000,70000,20000
+ORD1790,2025-11-28,Aditya Patel,Tablet,Electronics,West,3,0.05,62700,51000,11700
+ORD1236,2025-11-28,Mira Joshi,Printer,Office Equipment,South,3,0.15,35700,32400,3300
+ORD1898,2025-11-28,Aditya Patel,Office Chair,Furniture,West,1,0.1,8550,7000,1550
+ORD1855,2025-11-28,Isha Shah,Desk,Furniture,West,2,0.15,20400,17000,3400
+ORD1457,2025-11-29,Yash Joshi,Laptop,Electronics,West,1,0.1,58500,52000,6500
+ORD1340,2025-11-29,Dev Mehta,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1295,2025-11-30,Diya Shah,Keyboard,Accessories,West,4,0.05,6840,4400,2440
+ORD1117,2025-12-01,Riya Patel,Smartphone,Electronics,West,4,0.05,106400,88000,18400
+ORD1700,2025-12-02,Aarav Patel,Webcam,Accessories,North,4,0.1,16200,11600,4600
+ORD1440,2025-12-02,Rohan Mehta,Headphones,Accessories,West,4,0.0,14000,8800,5200
+ORD1940,2025-12-02,Riya Patel,Tablet,Electronics,South,1,0.05,20900,17000,3900
+ORD1121,2025-12-02,Yash Joshi,Tablet,Electronics,North,1,0.05,20900,17000,3900
+ORD1960,2025-12-03,Sara Desai,Keyboard,Accessories,South,5,0.0,9000,5500,3500
+ORD1620,2025-12-03,Yash Joshi,Headphones,Accessories,South,4,0.0,14000,8800,5200
+ORD1205,2025-12-03,Sara Desai,Tablet,Electronics,East,3,0.1,59400,51000,8400
+ORD1044,2025-12-04,Diya Shah,Printer,Office Equipment,South,5,0.0,70000,54000,16000
+ORD1918,2025-12-04,Yash Joshi,Monitor,Electronics,West,1,0.0,18000,14000,4000
+ORD1760,2025-12-04,Dev Mehta,Smartphone,Electronics,South,5,0.1,126000,110000,16000
+ORD1451,2025-12-04,Mira Joshi,Headphones,Accessories,North,2,0.0,7000,4400,2600
+ORD1573,2025-12-05,Kabir Shah,Printer,Office Equipment,East,2,0.0,28000,21600,6400
+ORD1839,2025-12-05,Yash Joshi,Tablet,Electronics,North,1,0.05,20900,17000,3900
+ORD1906,2025-12-05,Mira Joshi,Office Chair,Furniture,West,5,0.0,47500,35000,12500
+ORD1770,2025-12-05,Aditya Patel,Tablet,Electronics,West,2,0.05,41800,34000,7800
+ORD1478,2025-12-06,Kiara Mehta,Desk,Furniture,North,3,0.05,34200,25500,8700
+ORD1119,2025-12-06,Kiara Mehta,Laptop,Electronics,West,2,0.1,117000,104000,13000
+ORD1263,2025-12-06,Anaya Desai,Office Chair,Furniture,North,1,0.05,9025,7000,2025
+ORD1705,2025-12-06,Riya Patel,Office Chair,Furniture,West,4,0.1,34200,28000,6200
+ORD1429,2025-12-07,Vivaan Joshi,Keyboard,Accessories,East,2,0.05,3420,2200,1220
+ORD1346,2025-12-07,Diya Shah,Smartphone,Electronics,East,5,0.05,133000,110000,23000
+ORD1425,2025-12-07,Riya Patel,Laptop,Electronics,West,3,0.0,195000,156000,39000
+ORD1474,2025-12-08,Riya Patel,Headphones,Accessories,East,4,0.05,13300,8800,4500
+ORD1609,2025-12-08,Yash Joshi,Headphones,Accessories,West,3,0.1,9450,6600,2850
+ORD1192,2025-12-08,Riya Patel,Monitor,Electronics,West,4,0.0,72000,56000,16000
+ORD1866,2025-12-09,Kabir Shah,Desk,Furniture,South,1,0.0,12000,8500,3500
+ORD1470,2025-12-09,Yash Joshi,Desk,Furniture,West,1,0.0,12000,8500,3500
+ORD1836,2025-12-09,Sara Desai,Smartphone,Electronics,North,2,0.0,56000,44000,12000
+ORD1739,2025-12-10,Yash Joshi,Headphones,Accessories,West,2,0.0,7000,4400,2600
+ORD1226,2025-12-10,Anaya Desai,Monitor,Electronics,West,1,0.0,18000,14000,4000
+ORD1460,2025-12-10,Sara Desai,Headphones,Accessories,East,1,0.0,3500,2200,1300
+ORD1242,2025-12-11,Vivaan Joshi,Printer,Office Equipment,South,5,0.1,63000,54000,9000
+ORD1873,2025-12-12,Rohan Mehta,Desk,Furniture,North,4,0.05,45600,34000,11600
+ORD1697,2025-12-12,Anaya Desai,Laptop,Electronics,East,3,0.05,185250,156000,29250
+ORD1063,2025-12-12,Vivaan Joshi,Laptop,Electronics,West,3,0.05,185250,156000,29250
+ORD1382,2025-12-13,Kiara Mehta,Webcam,Accessories,West,5,0.0,22500,14500,8000
+ORD1173,2025-12-13,Aarav Patel,Keyboard,Accessories,North,2,0.05,3420,2200,1220
+ORD1183,2025-12-15,Kiara Mehta,Office Chair,Furniture,West,4,0.1,34200,28000,6200
+ORD1591,2025-12-15,Rohan Mehta,Keyboard,Accessories,East,5,0.0,9000,5500,3500
+ORD1525,2025-12-15,Isha Shah,Office Chair,Furniture,South,2,0.05,18050,14000,4050
+ORD1261,2025-12-15,Riya Patel,Smartphone,Electronics,West,4,0.0,112000,88000,24000
+ORD1229,2025-12-15,Yash Joshi,Headphones,Accessories,West,3,0.05,9975,6600,3375
+ORD1061,2025-12-16,Yash Joshi,Monitor,Electronics,South,4,0.1,64800,56000,8800
+ORD1492,2025-12-16,Kiara Mehta,Monitor,Electronics,South,2,0.05,34200,28000,6200
+ORD1138,2025-12-16,Yash Joshi,Headphones,Accessories,West,3,0.0,10500,6600,3900
+ORD1978,2025-12-16,Isha Shah,Headphones,Accessories,West,5,0.05,16625,11000,5625
+ORD1249,2025-12-18,Anaya Desai,Monitor,Electronics,West,5,0.1,81000,70000,11000
+ORD1523,2025-12-18,Kiara Mehta,Laptop,Electronics,West,1,0.1,58500,52000,6500
+ORD1972,2025-12-18,Dev Mehta,Tablet,Electronics,West,5,0.0,110000,85000,25000
+ORD1586,2025-12-18,Anaya Desai,Desk,Furniture,West,5,0.1,54000,42500,11500
+ORD1657,2025-12-19,Isha Shah,Printer,Office Equipment,East,1,0.1,12600,10800,1800
+ORD1160,2025-12-19,Isha Shah,Webcam,Accessories,South,5,0.1,20250,14500,5750
+ORD1678,2025-12-20,Rohan Mehta,Webcam,Accessories,North,1,0.0,4500,2900,1600
+ORD1695,2025-12-21,Vivaan Joshi,Office Chair,Furniture,West,2,0.1,17100,14000,3100
+ORD1832,2025-12-22,Sara Desai,Smartphone,Electronics,North,2,0.0,56000,44000,12000
+ORD1468,2025-12-23,Rohan Mehta,Monitor,Electronics,North,5,0.0,90000,70000,20000
+ORD1616,2025-12-23,Isha Shah,Headphones,Accessories,South,1,0.0,3500,2200,1300
+ORD1878,2025-12-24,Sara Desai,Headphones,Accessories,West,1,0.1,3150,2200,950
+ORD1552,2025-12-25,Riya Patel,Laptop,Electronics,East,5,0.05,308750,260000,48750
+ORD1688,2025-12-26,Anaya Desai,Keyboard,Accessories,East,4,0.0,7200,4400,2800
+ORD1736,2025-12-26,Kabir Shah,Desk,Furniture,West,4,0.0,48000,34000,14000
+ORD1177,2025-12-26,Aarav Patel,Keyboard,Accessories,West,4,0.05,6840,4400,2440
+ORD1019,2025-12-26,Isha Shah,Office Chair,Furniture,East,5,0.1,42750,35000,7750
+ORD1164,2025-12-26,Isha Shah,Headphones,Accessories,West,3,0.15,8925,6600,2325
+ORD1778,2025-12-26,Mira Joshi,Keyboard,Accessories,West,2,0.15,3060,2200,860
+ORD1094,2025-12-27,Aditya Patel,Headphones,Accessories,South,4,0.1,12600,8800,3800
+ORD1928,2025-12-29,Aditya Patel,Keyboard,Accessories,North,3,0.05,5130,3300,1830
+ORD1849,2025-12-29,Kabir Shah,Keyboard,Accessories,South,1,0.1,1620,1100,520
+ORD1244,2025-12-29,Vivaan Joshi,Tablet,Electronics,South,2,0.0,44000,34000,10000
+ORD1785,2025-12-29,Riya Patel,Webcam,Accessories,South,5,0.05,21375,14500,6875
+ORD1989,2025-12-29,Dev Mehta,Headphones,Accessories,South,1,0.1,3150,2200,950
+ORD1218,2025-12-30,Aditya Patel,Desk,Furniture,West,2,0.1,21600,17000,4600
+ORD1448,2025-12-30,Riya Patel,Keyboard,Accessories,West,3,0.1,4860,3300,1560
+ORD1872,2025-12-31,Isha Shah,Printer,Office Equipment,West,4,0.05,53200,43200,10000
+ORD1412,2025-12-31,Rohan Mehta,Keyboard,Accessories,East,5,0.05,8550,5500,3050
+ORD1090,2025-12-31,Aarav Patel,Monitor,Electronics,East,3,0.05,51300,42000,9300
+ORD1247,2025-12-31,Rohan Mehta,Smartphone,Electronics,West,4,0.0,112000,88000,24000
