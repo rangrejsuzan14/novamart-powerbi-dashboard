@@ -46,6 +46,26 @@ The dashboard provides insights into sales performance, profitability, products,
 - Total Quantity: 3,008
 - Profit Margin: 18.26%
 
+## 📂 Dataset
+
+The project uses a synthetic sales dataset containing 1,000 sales transactions.
+
+The dataset includes:
+
+- Order ID
+- Order Date
+- Customer
+- Product
+- Category
+- Region
+- Quantity
+- Discount
+- Sales
+- Cost
+- Profit
+
+The dataset is provided in CSV format for demonstration and portfolio purposes.
+
 ## 🎯 Project Objective
 
 The objective of this project is to demonstrate how Power BI can transform raw sales data into meaningful visual insights and support business decision-making.
