@@ -66,6 +66,8 @@ The dataset includes:
 
 The dataset is provided in CSV format for demonstration and portfolio purposes.
 
+Power BI Report: Download the .pbix file and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
+
 ## 🎯 Project Objective
 
 The objective of this project is to demonstrate how Power BI can transform raw sales data into meaningful visual insights and support business decision-making.
