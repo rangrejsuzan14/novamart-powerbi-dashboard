@@ -1,5 +1,7 @@
 # NovaMart Retail — Sales & Business Intelligence Dashboard
 
+![NovaMart Power BI Dashboard](./NovaMart-Sales-Dashboard.png)
+
 ## 📊 Project Overview
 
 NovaMart Retail — Sales & Business Intelligence Dashboard is a Power BI analytics project designed to transform raw sales data into an interactive business intelligence dashboard.
